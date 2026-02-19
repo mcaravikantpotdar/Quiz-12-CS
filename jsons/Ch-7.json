@@ -7,579 +7,579 @@
     "total_questions": 15,
     "source_language": "en",
     "target_language": "hi",
-    "created_at": "2026-02-19T10:00:00Z",
-    "version": "1.3",
-    "note": "Explanations now use 'Correct Statement' logic instead of option letters to support shuffling."
+    "created_at": "2026-02-19T16:00:00Z",
+    "version": "1.6",
+    "note": "A mix of Uniform Starts, Spot-the-Lie, and Scenario-based questions to ensure deep reading and analysis."
   },
   "questions": [
     {
       "question_id": 1,
       "question": {
-        "en": "Analyze the definition and scope of 'Online Services'. Which set of statements is entirely accurate?",
-        "hi": "'ऑनलाइन सेवाओं' की परिभाषा और दायरे का विश्लेषण करें। कथनों का कौन सा समूह पूरी तरह से सटीक है?"
+        "en": "Based on the text, which of the following is an entirely accurate description of 'Online Services' and their reach?",
+        "hi": "पाठ के आधार पर, 'ऑनलाइन सेवाओं' और उनकी पहुंच का पूरी तरह से सटीक विवरण कौन सा है?"
       },
       "options": {
         "a": {
-          "en": "* Any service provided over the internet is called an online service [cite: 2].\n* They help us communicate using applications like email, chat, and video conferencing [cite: 2].\n* They allow us to get information on various topics using search-engines and web-sites[cite: 2].",
-          "hi": "* इंटरनेट पर प्रदान की जाने वाली कोई भी सेवा ऑनलाइन सेवा कहलाती है [cite: 2]।\n* वे हमें ईमेल, चैट और वीडियो कॉन्फ्रेंसिंग जैसे एप्लिकेशन का उपयोग करके संवाद करने में मदद करती हैं [cite: 2]।\n* वे हमें खोज-इंजन और वेब-साइटों का उपयोग करके विभिन्न विषयों पर जानकारी प्राप्त करने में मदद करती हैं [cite: 2]। "
+          "en": "Online services are those provided over the internet to help us communicate and perform tasks. They include email, chat, and search engines, but the textbook states they are strictly limited to educational purposes and cannot be used for commercial business.",
+          "hi": "ऑनलाइन सेवाएँ वे हैं जो हमें संवाद करने और कार्यों को करने में मदद करने के लिए इंटरनेट पर प्रदान की जाती हैं। इनमें ईमेल, चैट और सर्च इंजन शामिल हैं, लेकिन पाठ्यपुस्तक में कहा गया है कि वे कड़ाई से केवल शैक्षिक उद्देश्यों तक सीमित हैं और व्यावसायिक कार्यों के लिए उपयोग नहीं की जा सकतीं।"
         },
         "b": {
-          "en": "* Online services are defined as tasks done physically without any internet application [cite: 2, 3].\n* They focus only on playing offline games and exclude social networking [cite: 2].\n* These services require a person to visit a physical bank or office to start the process[cite: 2, 4].",
-          "hi": "* ऑनलाइन सेवाओं को बिना किसी इंटरनेट एप्लिकेशन के भौतिक रूप से किए गए कार्यों के रूप में परिभाषित किया गया है [cite: 2, 3]।\n* वे केवल ऑफलाइन गेम खेलने पर ध्यान केंद्रित करती हैं और सोशल नेटवर्किंग को बाहर रखती हैं [cite: 2]।\n* इन सेवाओं के लिए किसी व्यक्ति को प्रक्रिया शुरू करने के लिए भौतिक बैंक या कार्यालय जाने की आवश्यकता होती है [cite: 2, 4]।"
+          "en": "Online services are those provided over the internet to help us communicate and perform tasks. They allow users to study, shop, and bank from any location. These services are accessible via PCs or smartphones and provide information through various websites.",
+          "hi": "ऑनलाइन सेवाएँ वे हैं जो हमें संवाद करने और कार्यों को करने में मदद करने के लिए इंटरनेट पर प्रदान की जाती हैं। वे उपयोगकर्ताओं को किसी भी स्थान से पढ़ाई, खरीदारी और बैंकिंग करने की अनुमति देती हैं। ये सेवाएँ पीसी या स्मार्टफोन के माध्यम से सुलभ हैं और विभिन्न वेबसाइटों के माध्यम से जानकारी प्रदान करती हैं।"
         },
         "c": {
-          "en": "* Online services are only useful for booking bus and train tickets and nothing else [cite: 2, 9].\n* They do not include any facility for online payments or business transactions [cite: 2].\n* Using search engines is considered an offline service in this chapter[cite: 2].",
-          "hi": "* ऑनलाइन सेवाएँ केवल बस और ट्रेन टिकट बुक करने के लिए उपयोगी हैं और कुछ नहीं [cite: 2, 9]।\n* इनमें ऑनलाइन भुगतान या व्यावसायिक लेनदेन के लिए कोई सुविधा शामिल नहीं है [cite: 2]।\n* इस अध्याय में खोज इंजन (search engines) का उपयोग करना एक ऑफलाइन सेवा माना गया है [cite: 2]।"
+          "en": "Online services are those provided over the internet to help us communicate and perform tasks. They are very fast and convenient, but they are only available for use during standard daylight hours and remain closed on all public holidays.",
+          "hi": "ऑनलाइन सेवाएँ वे हैं जो हमें संवाद करने और कार्यों को करने में मदद करने के लिए इंटरनेट पर प्रदान की जाती हैं। वे बहुत तेज़ और सुविधाजनक हैं, लेकिन वे केवल मानक दिन के घंटों के दौरान उपयोग के लिए उपलब्ध हैं और सभी सार्वजनिक छुट्टियों पर बंद रहती हैं।"
         },
         "d": {
-          "en": "* Online services are provided exclusively through telephone calls without using websites [cite: 2, 3].\n* They are strictly for entertainment and cannot be used for study or banking [cite: 2].\n* Internet connectivity is not required for a service to be called 'online'[cite: 2].",
-          "hi": "* ऑनलाइन सेवाएँ वेबसाइटों का उपयोग किए बिना विशेष रूप से टेलीफोन कॉल के माध्यम से प्रदान की जाती हैं [cite: 2, 3]।\n* ये कड़ाई से मनोरंजन के लिए हैं और इनका उपयोग अध्ययन या बैंकिंग के लिए नहीं किया जा सकता है [cite: 2]।\n* किसी सेवा को 'ऑनलाइन' कहलाने के लिए इंटरनेट कनेक्टिविटी की आवश्यकता नहीं होती है [cite: 2]।"
+          "en": "Online services are those provided over the internet to help us communicate and perform tasks. They facilitate online bookings and payments, however, internet connectivity is considered optional as these services can also function perfectly offline.",
+          "hi": "ऑनलाइन सेवाएँ वे हैं जो हमें संवाद करने और कार्यों को करने में मदद करने के लिए इंटरनेट पर प्रदान की जाती हैं। वे ऑनलाइन बुकिंग और भुगतान की सुविधा प्रदान करती हैं, हालाँकि, इंटरनेट कनेक्टिविटी को वैकल्पिक माना जाता है क्योंकि ये सेवाएँ ऑफ़लाइन भी पूरी तरह से काम कर सकती हैं।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "b",
       "hint": {
-        "en": "Think about the core requirement for a service to be called 'online' and its main uses.",
-        "hi": "किसी सेवा को 'ऑनलाइन' कहलाने के लिए मुख्य आवश्यकता और उसके मुख्य उपयोगों के बारे में सोचें।"
+        "en": "Look for the option that covers multiple tasks (study, shop, bank) without adding fake limitations like 'only education' or 'office hours'.",
+        "hi": "उस विकल्प को चुनें जो 'केवल शिक्षा' या 'कार्यालय समय' जैसी नकली सीमाएं जोड़े बिना कई कार्यों (पढ़ाई, खरीदारी, बैंक) को कवर करता है।"
       },
       "explanation": {
-        "en": "The statement describing internet-based delivery for communication and information gathering is correct[cite: 2]. According to the text, any service over the internet is an online service[cite: 2]. \n\n**Elimination Logic:**\n* The statement about offline tasks is incorrect because online services require the internet [cite: 2].\n* The claim that they exclude banking or payments is false as the text lists online banking and payments as key services [cite: 2].\n* The idea that connectivity is not required is wrong because the text says services are useless without it[cite: 2].",
-        "hi": "संचार और सूचना एकत्र करने के लिए इंटरनेट आधारित वितरण का वर्णन करने वाला कथन सही है [cite: 2]। पाठ के अनुसार, इंटरनेट पर कोई भी सेवा ऑनलाइन सेवा है [cite: 2]।\n\n**हटाने का तर्क (Elimination Logic):**\n* ऑफलाइन कार्यों के बारे में कथन गलत है क्योंकि ऑनलाइन सेवाओं के लिए इंटरनेट की आवश्यकता होती है [cite: 2]।\n* यह दावा कि वे बैंकिंग या भुगतान को बाहर रखते हैं, गलत है क्योंकि पाठ ऑनलाइन बैंकिंग और भुगतान को प्रमुख सेवाओं के रूप में सूचीबद्ध करता है [cite: 2]।\n* यह विचार कि कनेक्टिविटी की आवश्यकता नहीं है, गलत है क्योंकि पाठ कहता है कि इसके बिना सेवाएँ बेकार हैं [cite: 2]।"
+        "en": "The description that highlights diverse uses like study, business, and banking via PCs or smartphones is correct because it matches the wide scope of online services defined in the chapter. \n\n**Elimination Logic:**\n* The statement claiming services are limited only to education is incorrect; the text mentions business and shopping as well.\n* The mention of daylight hours only is false; online services are defined by their convenience and 24x7 nature.\n* The idea that internet is optional is wrong; the text states services become 'useless' without connectivity.",
+        "hi": "पीसी या स्मार्टफोन के माध्यम से पढ़ाई, व्यवसाय और बैंकिंग जैसे विविध उपयोगों पर प्रकाश डालने वाला विवरण सही है क्योंकि यह अध्याय में परिभाषित ऑनलाइन सेवाओं के विस्तृत दायरे से मेल खाता है।\n\n**हटाने का तर्क (Elimination Logic):**\n* केवल शिक्षा तक सीमित होने का दावा करने वाला कथन गलत है; पाठ में व्यवसाय और खरीदारी का भी उल्लेख है।\n* केवल दिन के घंटों का उल्लेख गलत है; ऑनलाइन सेवाओं को उनकी सुविधा और 24x7 प्रकृति द्वारा परिभाषित किया गया है।\n* यह विचार कि इंटरनेट वैकल्पिक है, गलत है; पाठ कहता है कि कनेक्टिविटी के बिना सेवाएँ 'बेकार' (useless) हो जाती हैं।"
       },
       "key_takeaway": {
-        "en": "Online services use the internet to provide communication, information, and transaction facilities from home[cite: 2].",
-        "hi": "ऑनलाइन सेवाएँ घर बैठे संचार, सूचना और लेनदेन की सुविधा प्रदान करने के लिए इंटरनेट का उपयोग करती हैं [cite: 2]।"
+        "en": "Online services provide universal access to communication, information, and commerce via the internet.",
+        "hi": "ऑनलाइन सेवाएँ इंटरनेट के माध्यम से संचार, सूचना और वाणिज्य तक सार्वभौमिक पहुँच प्रदान करती हैं।"
       }
     },
     {
       "question_id": 2,
       "question": {
-        "en": "Evaluate the advantages and disadvantages of online services as mentioned in the text.",
-        "hi": "पाठ में उल्लिखित ऑनलाइन सेवाओं के लाभों और नुकसानों का मूल्यांकन करें।"
+        "en": "Which of the following statements about the features of E-commerce (Electronic-commerce) is ENTIRELY true?",
+        "hi": "ई-कॉमर्स (इलेक्ट्रॉनिक-कॉमर्स) की विशेषताओं के बारे में निम्नलिखित में से कौन सा कथन पूरी तरह से सत्य है?"
       },
       "options": {
         "a": {
-          "en": "* Advantage: They are fast and convenient because they can be used from home via PC or smartphone [cite: 2].\n* Disadvantage: They can be useless if internet connectivity is poor or unavailable [cite: 2].\n* Risk: Users can get cheated by fake online services (online frauds)[cite: 2].",
-          "hi": "* लाभ: वे तेज़ और सुविधाजनक हैं क्योंकि उन्हें पीसी या स्मार्टफोन के माध्यम से घर से उपयोग किया जा सकता है [cite: 2]।\n* नुकसान: यदि इंटरनेट कनेक्टिविटी खराब या अनुपलब्ध है तो वे बेकार हो सकते हैं [cite: 2]।\n* जोखिम: उपयोगकर्ता नकली ऑनलाइन सेवाओं (ऑनलाइन धोखाधड़ी) द्वारा ठगे जा सकते हैं [cite: 2]। "
+          "en": "E-commerce is the process of buying and selling products via the internet. It offers 24x7 availability, but strictly requires the use of paper-based cash for all transactions to ensure security.",
+          "hi": "ई-कॉमर्स इंटरनेट के माध्यम से उत्पादों को खरीदने और बेचने की प्रक्रिया है। यह 24x7 उपलब्धता प्रदान करता है, लेकिन सुरक्षा सुनिश्चित करने के लिए सभी लेनदेन के लिए पेपर-आधारित नकदी (cash) के उपयोग की सख्ती से मांग करता है।"
         },
         "b": {
-          "en": "* Advantage: They work perfectly even when the internet is completely unavailable [cite: 2].\n* Disadvantage: They are much slower than physical visits to a government office [cite: 2].\n* Risk: There is no risk of fraud because the internet prevents all types of cheating[cite: 2].",
-          "hi": "* लाभ: इंटरनेट पूरी तरह से अनुपलब्ध होने पर भी वे पूरी तरह से काम करते हैं [cite: 2]।\n* नुकसान: वे सरकारी कार्यालय की भौतिक यात्राओं की तुलना में बहुत धीमे हैं [cite: 2]।\n* जोखिम: धोखाधड़ी का कोई जोखिम नहीं है क्योंकि इंटरनेट सभी प्रकार की ठगी को रोकता है [cite: 2]।"
+          "en": "E-commerce is the process of buying and selling products via the internet. It is available only during the daytime. It promotes a system where users must physically meet the seller to complete the payment.",
+          "hi": "ई-कॉमर्स इंटरनेट के माध्यम से उत्पादों को खरीदने और बेचने की प्रक्रिया है। यह केवल दिन के समय उपलब्ध होता है। यह एक ऐसी प्रणाली को बढ़ावा देता है जहाँ उपयोगकर्ताओं को भुगतान पूरा करने के लिए विक्रेता से भौतिक रूप से मिलना पड़ता है।"
         },
         "c": {
-          "en": "* Advantage: Online services require a physical visit to be convenient [cite: 2].\n* Disadvantage: They are only available during public holidays and closed on weekdays [cite: 3].\n* Risk: Connectivity issues are considered a benefit for the user's data safety[cite: 2].",
-          "hi": "* लाभ: ऑनलाइन सेवाओं को सुविधाजनक होने के लिए भौतिक यात्रा की आवश्यकता होती है [cite: 2]।\n* नुकसान: वे केवल सार्वजनिक छुट्टियों के दौरान उपलब्ध हैं और सप्ताह के दिनों में बंद रहती हैं [cite: 3]।\n* जोखिम: कनेक्टिविटी के मुद्दों को उपयोगकर्ता की डेटा सुरक्षा के लिए एक लाभ माना जाता है [cite: 2]।"
+          "en": "E-commerce is the process of buying and selling products via the internet. It has a worldwide scope and allows for the exchange of services and information. It promotes a cash-less system using digital modes like UPI and cards.",
+          "hi": "ई-कॉमर्स इंटरनेट के माध्यम से उत्पादों को खरीदने और बेचने की प्रक्रिया है। इसका विश्वव्यापी दायरा है और यह सेवाओं और सूचनाओं के आदान-प्रदान की अनुमति देता है। यह UPI और कार्ड जैसे डिजिटल तरीकों का उपयोग करके कैश-लेस सिस्टम को बढ़ावा देता है।"
         },
         "d": {
-          "en": "* Advantage: Fraud is a primary benefit that helps users stay alert [cite: 2].\n* Disadvantage: They are too fast for any computer to process them correctly [cite: 2].\n* Risk: Using a personal computer from home is prohibited for online services[cite: 2].",
-          "hi": "* लाभ: धोखाधड़ी एक प्राथमिक लाभ है जो उपयोगकर्ताओं को सतर्क रहने में मदद करता है [cite: 2]।\n* नुकसान: वे किसी भी कंप्यूटर द्वारा सही ढंग से संसाधित करने के लिए बहुत तेज़ हैं [cite: 2]।\n* जोखिम: ऑनलाइन सेवाओं के लिए घर से पर्सनल कंप्यूटर का उपयोग करना प्रतिबंधित है [cite: 2]।"
+          "en": "E-commerce is the process of buying and selling products via the internet. It is available 24x7, but it can only be used to purchase physical goods and never for the exchange of digital information.",
+          "hi": "ई-कॉमर्स इंटरनेट के माध्यम से उत्पादों को खरीदने और बेचने की प्रक्रिया है। यह 24x7 उपलब्ध है, लेकिन इसका उपयोग केवल भौतिक वस्तुओं को खरीदने के लिए किया जा सकता है और डिजिटल सूचना के आदान-प्रदान के लिए कभी नहीं।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "c",
       "hint": {
-        "en": "Recall the text points about speed, home usage, and the 'Online Frauds' section.",
-        "hi": "गति, घर पर उपयोग, और 'ऑनलाइन धोखाधड़ी' (Online Frauds) अनुभाग के पाठ बिंदुओं को याद करें।"
+        "en": "Verify the 'Cash-less' and 'Information Exchange' features mentioned in the textbook.",
+        "hi": "पाठ्यपुस्तक में उल्लेखित 'कैश-लेस' और 'सूचना आदान-प्रदान' की विशेषताओं को सत्यापित करें।"
       },
       "explanation": {
-        "en": "The statements about speed, convenience, and connectivity dependency are correct based on the text[cite: 2]. The textbook explicitly lists fast speed and home convenience as advantages, while poor connectivity and fraud are disadvantages [cite: 2].\n\n**Elimination Logic:**\n* The claim that they work without internet is false; the text says they become 'useless' [cite: 2].\n* The idea that they are slower than physical visits contradicts the 'Fast speed' advantage in the text [cite: 2].\n* The statement that there is no risk of fraud is wrong as 'Online frauds' is a specific disadvantage mentioned[cite: 2].",
-        "hi": "गति, सुविधा और कनेक्टिविटी निर्भरता के बारे में कथन पाठ के आधार पर सही हैं [cite: 2]। पाठ्यपुस्तक स्पष्ट रूप से तेज़ गति और घर की सुविधा को लाभ के रूप में सूचीबद्ध करती है, जबकि खराब कनेक्टिविटी और धोखाधड़ी नुकसान हैं [cite: 2]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि वे इंटरनेट के बिना काम करते हैं, गलत है; पाठ कहता है कि वे 'बेकार' हो जाते हैं [cite: 2]।\n* यह विचार कि वे भौतिक यात्राओं की तुलना में धीमे हैं, पाठ में 'तेज़ गति' के लाभ का खंडन करता है [cite: 2]।\n* यह कथन कि धोखाधड़ी का कोई जोखिम नहीं है, गलत है क्योंकि 'ऑनलाइन धोखाधड़ी' विशेष रूप से उल्लेखित एक नुकसान है [cite: 2]।"
+        "en": "The statement describing the worldwide scope, information exchange, and cashless digital payments is correct. These are the three core pillars of E-commerce defined in the text.\n\n**Elimination Logic:**\n* The claim that it requires paper-based cash is incorrect; the text highlights 'Cash-less' as a benefit.\n* The idea that it is only available during the daytime is false; it is available '24x7'.\n* The statement that it is only for physical goods is wrong; the definition includes 'exchange of information'.",
+        "hi": "विश्वव्यापी दायरे, सूचना विनिमय और कैशलेस डिजिटल भुगतान का वर्णन करने वाला कथन सही है। ये पाठ में परिभाषित ई-कॉमर्स के तीन मुख्य स्तंभ हैं।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि इसमें पेपर-आधारित नकदी की आवश्यकता होती है, गलत है; पाठ 'कैश-लेस' को एक लाभ के रूप में दर्शाता है।\n* यह विचार कि यह केवल दिन के समय उपलब्ध है, गलत है; यह '24x7' उपलब्ध है।\n* यह कथन कि यह केवल भौतिक वस्तुओं के लिए है, गलत है; परिभाषा में 'सूचना का आदान-प्रदान' शामिल है।"
       },
       "key_takeaway": {
-        "en": "Online services provide high-speed home access but require stable internet and caution against scams[cite: 2].",
-        "hi": "ऑनलाइन सेवाएँ उच्च गति वाली घरेलू पहुँच प्रदान करती हैं लेकिन इसके लिए स्थिर इंटरनेट और घोटालों के प्रति सावधानी की आवश्यकता होती है [cite: 2]।"
+        "en": "E-commerce combines global reach with 24x7 availability and digital, paperless payments.",
+        "hi": "ई-कॉमर्स 24x7 उपलब्धता और डिजिटल, पेपरलेस भुगतान के साथ वैश्विक पहुंच को जोड़ता है।"
       }
     },
     {
       "question_id": 3,
       "question": {
-        "en": "Analyze the features of E-commerce (electronic-commerce) according to the chapter.",
-        "hi": "अध्याय के अनुसार ई-कॉमर्स (इलेक्ट्रॉनिक-कॉमर्स) की विशेषताओं का विश्लेषण करें।"
+        "en": "Identify the set of statements that contains a FALSE fact about the comparison between Traditional-commerce and E-commerce.",
+        "hi": "उन कथनों के समूह की पहचान करें जिनमें पारंपरिक-कॉमर्स और ई-कॉमर्स के बीच तुलना के बारे में एक गलत तथ्य है।"
       },
       "options": {
         "a": {
-          "en": "* It involves buying, selling, or exchanging products via the internet [cite: 2].\n* Facilities are available 24x7, every day of the week, including holidays [cite: 2, 3].\n* It supports cash-less transactions using UPI, cards, and net-banking[cite: 2, 3].",
-          "hi": "* इसमें इंटरनेट के माध्यम से उत्पादों को खरीदना, बेचना या आदान-प्रदान करना शामिल है [cite: 2]।\n* सुविधाएं सप्ताह के प्रत्येक दिन 24x7 उपलब्ध हैं, जिसमें छुट्टियां भी शामिल हैं [cite: 2, 3]।\n* यह UPI, कार्ड और नेट-बैंकिंग का उपयोग करके कैश-लेस लेनदेन का समर्थन करता है [cite: 2, 3]। "
+          "en": "* Traditional commerce involves direct interaction between seller and buyer.\n* Processing of transactions in Traditional commerce is done manually.\n* The scope of Traditional commerce is usually limited to a small physical area.",
+          "hi": "* पारंपरिक कॉमर्स में विक्रेता और खरीदार के बीच सीधा संपर्क शामिल होता है।\n* पारंपरिक कॉमर्स में लेनदेन की प्रोसेसिंग मैन्युअल रूप से की जाती है।\n* पारंपरिक कॉमर्स का दायरा आमतौर पर एक छोटे भौतिक क्षेत्र तक सीमित होता है।"
         },
         "b": {
-          "en": "* E-commerce is the process of physical trading without any electronic tools [cite: 2].\n* Services are only available during standard shop hours and never at night [cite: 3].\n* Using digital payments like UPI is strictly prohibited in E-commerce[cite: 2, 3].",
-          "hi": "* ई-कॉमर्स बिना किसी इलेक्ट्रॉनिक उपकरण के भौतिक व्यापार की प्रक्रिया है [cite: 2]।\n* सेवाएँ केवल मानक दुकान घंटों के दौरान उपलब्ध हैं और रात में कभी नहीं [cite: 3]।\n* ई-कॉमर्स में UPI जैसे डिजिटल भुगतान का उपयोग करना सख्त वर्जित है [cite: 2, 3]।"
+          "en": "* In E-commerce, there is no direct interaction between the seller and the buyer.\n* The processing of transactions in E-commerce is done automatically.\n* E-commerce allows for the worldwide exchange of goods and services.",
+          "hi": "* ई-कॉमर्स में, विक्रेता और खरीदार के बीच कोई सीधा संपर्क नहीं होता है।\n* ई-कॉमर्स में लेनदेन की प्रोसेसिंग स्वचालित रूप से की जाती है।\n* ई-कॉमर्स वस्तुओं और सेवाओं के विश्वव्यापी आदान-प्रदान की अनुमति देता है।"
         },
         "c": {
-          "en": "* E-commerce means exchange of physical cash only [cite: 2, 3].\n* It excludes the process of buying or selling services [cite: 2].\n* Public holidays are the only days when E-commerce is not available[cite: 2, 3].",
-          "hi": "* ई-कॉमर्स का अर्थ केवल भौतिक नकदी का आदान-प्रदान है [cite: 2, 3]।\n* इसमें सेवाओं को खरीदने या बेचने की प्रक्रिया शामिल नहीं है [cite: 2]।\n* सार्वजनिक छुट्टियां ही वे दिन हैं जब ई-कॉमर्स उपलब्ध नहीं होता है [cite: 2, 3]।"
+          "en": "* Traditional commerce allows for instant delivery of physical goods.\n* In E-commerce, the delivery of physical goods takes some time.\n* Traditional commerce is available 24x7, while E-commerce has limited hours.",
+          "hi": "* पारंपरिक कॉमर्स भौतिक वस्तुओं की तत्काल डिलीवरी की अनुमति देता है।\n* ई-कॉमर्स में, भौतिक वस्तुओं की डिलीवरी में कुछ समय लगता है।\n* पारंपरिक कॉमर्स 24x7 उपलब्ध है, जबकि ई-कॉमर्स के घंटे सीमित हैं।"
         },
         "d": {
-          "en": "* E-commerce is a manual business transaction process done via telephone [cite: 2, 3].\n* It does not allow the exchange of information, only physical goods [cite: 2].\n* 24x7 availability is considered a disadvantage in the chapter[cite: 2, 3].",
-          "hi": "* ई-कॉमर्स टेलीफोन के माध्यम से की जाने वाली एक मैनुअल व्यावसायिक लेनदेन प्रक्रिया है [cite: 2, 3]।\n* यह सूचना के आदान-प्रदान की अनुमति नहीं देता है, केवल भौतिक वस्तुओं की अनुमति देता है [cite: 2]।\n* अध्याय में 24x7 उपलब्धता को एक नुकसान माना गया है [cite: 2, 3]।"
+          "en": "* Customers in Traditional commerce can inspect products physically before purchase.\n* It is easy to maintain uniform standard practices in E-commerce.\n* E-commerce makes it easy to reach customers across the entire world.",
+          "hi": "* पारंपरिक कॉमर्स में ग्राहक खरीद से पहले उत्पादों का भौतिक रूप से निरीक्षण कर सकते हैं।\n* ई-कॉमर्स में समान मानक प्रथाओं को बनाए रखना आसान है।\n* ई-कॉमर्स पूरी दुनिया में ग्राहकों तक पहुँचना आसान बनाता है।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "c",
       "hint": {
-        "en": "Look for the definition and the three key features: 24x7 availability, Cash-less, and Internet-based.",
-        "hi": "परिभाषा और तीन प्रमुख विशेषताओं को देखें: 24x7 उपलब्धता, कैश-लेस, और इंटरनेट आधारित।"
+        "en": "Think about which commerce model never closes and which one depends on office/shop hours.",
+        "hi": "सोचें कि कौन सा कॉमर्स मॉडल कभी बंद नहीं होता और कौन सा ऑफिस/दुकान के घंटों पर निर्भर करता है।"
       },
       "explanation": {
-        "en": "The set of statements accurately reflecting internet-based trade, 24x7 access, and cashless payments is correct[cite: 2, 3]. The text defines e-commerce as buying/selling via internet and highlights these specific features [cite: 2, 3].\n\n**Elimination Logic:**\n* The claim that digital payments are prohibited is false; the text explicitly lists them as part of the 'Cash-less' feature [cite: 2, 3].\n* The statement that it is a physical process is incorrect; it is defined as 'electronic-commerce' [cite: 2].\n* The idea that it's closed on holidays is wrong as the text says it works on 'public holidays'[cite: 2, 3].",
-        "hi": "इंटरनेट आधारित व्यापार, 24x7 पहुंच और कैशलेस भुगतान को सटीक रूप से दर्शाने वाले कथनों का समूह सही है [cite: 2, 3]। पाठ ई-कॉमर्स को इंटरनेट के माध्यम से खरीदने/बेचने के रूप में परिभाषित करता है और इन विशिष्ट विशेषताओं पर प्रकाश डालता है [cite: 2, 3]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि डिजिटल भुगतान प्रतिबंधित हैं, गलत है; पाठ स्पष्ट रूप से उन्हें 'कैश-लेस' सुविधा के हिस्से के रूप में सूचीबद्ध करता है [cite: 2, 3]।\n* यह कथन कि यह एक भौतिक प्रक्रिया है, गलत है; इसे 'इलेक्ट्रॉनिक-कॉमर्स' के रूप में परिभाषित किया गया है [cite: 2]।\n* यह विचार कि यह छुट्टियों पर बंद रहता है, गलत है क्योंकि पाठ कहता है कि यह 'सार्वजनिक छुट्टियों' (public holidays) पर काम करता है [cite: 2, 3]।"
+        "en": "The set of statements claiming that Traditional commerce is 24x7 and E-commerce has limited hours contains the false fact. In reality, it is the opposite: E-commerce is 24x7, while Traditional commerce is limited by shop hours.\n\n**Elimination Logic:**\n* All facts in the sets describing manual vs automatic processing are true.\n* All facts in the sets describing scope (limited vs worldwide) are true.\n* All facts regarding physical inspection and standard practices match the textbook's comparison table.",
+        "hi": "पारंपरिक कॉमर्स के 24x7 होने और ई-कॉमर्स के सीमित घंटे होने का दावा करने वाले कथनों के समूह में गलत तथ्य है। वास्तव में, यह इसके विपरीत है: ई-कॉमर्स 24x7 है, जबकि पारंपरिक कॉमर्स दुकान के घंटों तक सीमित है।\n\n**हटाने का तर्क (Elimination Logic):**\n* मैनुअल बनाम स्वचालित प्रोसेसिंग का वर्णन करने वाले सेट के सभी तथ्य सही हैं।\n* दायरे (सीमित बनाम विश्वव्यापी) का वर्णन करने वाले सेट के सभी तथ्य सही हैं।\n* भौतिक निरीक्षण और मानक प्रथाओं के संबंध में सभी तथ्य पाठ्यपुस्तक की तुलना तालिका से मेल खाते हैं।"
       },
       "key_takeaway": {
-        "en": "E-commerce provides continuous, internet-driven trading and promotes a cashless economy[cite: 2, 3].",
-        "hi": "ई-कॉमर्स निरंतर, इंटरनेट-संचालित व्यापार प्रदान करता है और कैशलेस अर्थव्यवस्था को बढ़ावा देता है [cite: 2, 3]।"
+        "en": "The primary advantage of E-commerce is its 24x7 availability and global reach, unlike traditional shops.",
+        "hi": "पारंपरिक दुकानों के विपरीत ई-कॉमर्स का प्राथमिक लाभ इसकी 24x7 उपलब्धता और वैश्विक पहुंच है।"
       }
     },
     {
       "question_id": 4,
       "question": {
-        "en": "Which set of comparisons between Traditional-commerce and E-commerce is entirely correct according to the table in the textbook?",
-        "hi": "पाठ्यपुस्तक की तालिका के अनुसार पारंपरिक-कॉमर्स (Traditional-commerce) और ई-कॉमर्स के बीच तुलना का कौन सा समूह पूरी तरह से सही है?"
+        "en": "In the context of E-commerce models, which of the following scenarios is accurately paired with its technical category?",
+        "hi": "ई-कॉमर्स मॉडल के संदर्भ में, निम्नलिखित में से कौन सा परिदृश्य (scenario) अपनी तकनीकी श्रेणी के साथ सटीक रूप से मेल खाता है?"
       },
       "options": {
         "a": {
-          "en": "* Traditional: Face-to-face interaction; processing is manual [cite: 3].\n* E-commerce: No direct interaction; processing is automatic [cite: 3].\n* Delivery: Traditional is instant, while E-commerce takes time[cite: 3].",
-          "hi": "* पारंपरिक: आमने-सामने बातचीत; प्रोसेसिंग मैनुअल है [cite: 3]।\n* ई-कॉमर्स: कोई सीधा संपर्क नहीं; प्रोसेसिंग स्वचालित है [cite: 3]।\n* डिलीवरी: पारंपरिक तत्काल है, जबकि ई-कॉमर्स में समय लगता है [cite: 3]। "
+          "en": "A small stationary shop owner orders 500 registers from a wholesale factory using an online portal. This is categorized as B2C (Business to Consumer).",
+          "hi": "एक छोटा स्टेशनरी दुकान मालिक ऑनलाइन पोर्टल का उपयोग करके थोक कारखाने से 500 रजिस्टर ऑर्डर करता है। इसे B2C (बिजनेस टू कंज्यूमर) के रूप में वर्गीकृत किया गया है।"
         },
         "b": {
-          "en": "* Traditional: Business done with internet; scope is worldwide [cite: 3].\n* E-commerce: Business done without internet; scope is a small area [cite: 3, 4].\n* Availability: Traditional is 24x7, while E-commerce is limited[cite: 3].",
-          "hi": "* पारंपरिक: इंटरनेट के साथ किया गया व्यवसाय; दायरा विश्वव्यापी है [cite: 3]।\n* ई-कॉमर्स: इंटरनेट के बिना किया गया व्यवसाय; दायरा एक छोटा क्षेत्र है [cite: 3, 4]।\n* उपलब्धता: पारंपरिक 24x7 है, जबकि ई-कॉमर्स सीमित है [cite: 3]।"
+          "en": "A college student buys a new laptop for her studies from an online store like Amazon. This is categorized as B2B (Business to Business).",
+          "hi": "एक कॉलेज छात्रा अपनी पढ़ाई के लिए अमेज़न जैसे ऑनलाइन स्टोर से नया लैपटॉप खरीदती है। इसे B2B (बिजनेस टू बिजनेस) के रूप में वर्गीकृत किया गया है।"
         },
         "c": {
-          "en": "* Traditional: Delivery takes time; processing is automatic [cite: 3].\n* E-commerce: Delivery is instant; processing is manual [cite: 3].\n* Interaction: E-commerce has direct face-to-face contact[cite: 3].",
-          "hi": "* पारंपरिक: डिलीवरी में समय लगता है; प्रोसेसिंग स्वचालित है [cite: 3]।\n* ई-कॉमर्स: डिलीवरी तत्काल है; प्रोसेसिंग मैनुअल है [cite: 3]।\n* संपर्क: ई-कॉमर्स में सीधा आमने-सामने संपर्क होता है [cite: 3]।"
+          "en": "A citizen visits a government website to pay their water or electricity bill online. This is categorized as G2C (Government to Consumer).",
+          "hi": "एक नागरिक ऑनलाइन पानी या बिजली के बिल का भुगतान करने के लिए सरकारी वेबसाइट पर जाता है। इसे G2C (गवर्नमेंट टू कंज्यूमर) के रूप में वर्गीकृत किया गया है।"
         },
         "d": {
-          "en": "* Traditional: Worldwide scope; available round the clock [cite: 3, 4].\n* E-commerce: Small physical area; available for limited time [cite: 3, 4].\n* Standard Practices: Difficult to maintain in E-commerce[cite: 4].",
-          "hi": "* पारंपरिक: विश्वव्यापी दायरा; चौबीसों घंटे उपलब्ध [cite: 3, 4]।\n* ई-कॉमर्स: छोटा भौतिक क्षेत्र; सीमित समय के लिए उपलब्ध [cite: 3, 4]।\n* मानक प्रथाएं (Standard Practices): ई-कॉमर्स में बनाए रखना कठिन है [cite: 4]।"
+          "en": "A person sells their old school books to a junior student through a second-hand website like OLX. This is categorized as C2B (Consumer to Business).",
+          "hi": "एक व्यक्ति अपनी पुरानी स्कूली किताबें OLX जैसी सेकंड-हैंड वेबसाइट के माध्यम से जूनियर छात्र को बेचता है। इसे C2B (कंज्यूमर टू बिजनेस) के रूप में वर्गीकृत किया गया है।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "c",
       "hint": {
-        "en": "Think about the delivery speed and the type of interaction in each model.",
-        "hi": "प्रत्येक मॉडल में डिलीवरी की गति और बातचीत के प्रकार के बारे में सोचें।"
+        "en": "Think about who is the 'provider' and who is the 'end-user' in each case.",
+        "hi": "सोचें कि प्रत्येक मामले में 'प्रदाता' (provider) कौन है और 'अंतिम-उपयोगकर्ता' (end-user) कौन है।"
       },
       "explanation": {
-        "en": "The statements correctly identifying manual processing and instant delivery for traditional commerce, versus automated processing for e-commerce, are correct[cite: 3]. The textbook table clearly distinguishes these factors [cite: 3].\n\n**Elimination Logic:**\n* The idea that traditional commerce has a 'worldwide scope' is incorrect; the text says it is 'limited to a small physical area' [cite: 4].\n* The claim that E-commerce has face-to-face interaction is false; it occurs via online websites [cite: 3].\n* The statement that E-commerce delivery is instant is wrong; it explicitly states that it 'takes time'[cite: 3].",
-        "hi": "पारंपरिक कॉमर्स के लिए मैनुअल प्रोसेसिंग और तत्काल डिलीवरी, बनाम ई-कॉमर्स के लिए स्वचालित प्रोसेसिंग की सही पहचान करने वाले कथन सही हैं [cite: 3]। पाठ्यपुस्तक की तालिका इन कारकों के बीच स्पष्ट रूप से अंतर करती है [cite: 3]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह विचार कि पारंपरिक कॉमर्स का 'विश्वव्यापी दायरा' है, गलत है; पाठ कहता है कि यह 'एक छोटे भौतिक क्षेत्र तक सीमित' है [cite: 4]।\n* यह दावा कि ई-कॉमर्स में आमने-सामने बातचीत होती है, गलत है; यह ऑनलाइन वेबसाइटों के माध्यम से होता है [cite: 3]।\n* यह कथन कि ई-कॉमर्स डिलीवरी तत्काल है, गलत है; यह स्पष्ट रूप से बताता है कि इसमें 'समय लगता है' [cite: 3]।"
+        "en": "The scenario where a citizen pays a government bill on a state portal is correctly categorized as G2C (Government to Consumer/Citizen). This matches the textbook's definition of the government providing services to individuals.\n\n**Elimination Logic:**\n* The shopkeeper buying from a wholesaler is B2B, not B2C, because it's a trade between two businesses.\n* The student buying a laptop for personal use is B2C, not B2B.\n* A person selling old books to another student is C2C (Consumer to Consumer), not C2B.",
+        "hi": "एक नागरिक द्वारा राज्य पोर्टल पर सरकारी बिल का भुगतान करने वाला परिदृश्य सही ढंग से G2C (गवर्नमेंट टू कंज्यूमर/सिटिजन) के रूप में वर्गीकृत किया गया है। यह पाठ्यपुस्तक में सरकार द्वारा व्यक्तियों को सेवाएँ प्रदान करने की परिभाषा से मेल खाता है।\n\n**हटाने का तर्क (Elimination Logic):**\n* थोक विक्रेता से खरीदने वाला दुकानदार B2B है, B2C नहीं, क्योंकि यह दो व्यवसायों के बीच का व्यापार है।\n* व्यक्तिगत उपयोग के लिए लैपटॉप खरीदने वाली छात्रा B2C है, B2B नहीं।\n* एक व्यक्ति द्वारा दूसरे छात्र को पुरानी किताबें बेचना C2C (कंज्यूमर टू कंज्यूमर) है, C2B नहीं।"
       },
       "key_takeaway": {
-        "en": "Traditional commerce offers physical inspection and instant delivery, while E-commerce offers global reach and automation[cite: 3, 4].",
-        "hi": "पारंपरिक कॉमर्स भौतिक निरीक्षण और तत्काल डिलीवरी प्रदान करता है, जबकि ई-कॉमर्स वैश्विक पहुंच और स्वचालन प्रदान करता है [cite: 3, 4]।"
+        "en": "E-commerce models are defined by the identity of the sender and the receiver of the service.",
+        "hi": "ई-कॉमर्स मॉडल सेवा के भेजने वाले और प्राप्त करने वाले की पहचान से परिभाषित होते हैं।"
       }
     },
     {
       "question_id": 5,
       "question": {
-        "en": "Analyze the scope and standardization of commerce models.",
-        "hi": "वाणिज्य मॉडल के दायरे और मानकीकरण का विश्लेषण करें।"
+        "en": "A student is reviewing the 'Net-banking' section of the chapter. Which of the following combined descriptions of its features and security is ENTIRELY accurate?",
+        "hi": "एक छात्र अध्याय के 'नेट-बैंकिंग' अनुभाग की समीक्षा कर रहा है। इसकी विशेषताओं और सुरक्षा का निम्नलिखित में से कौन सा संयुक्त विवरण पूरी तरह से सटीक है?"
       },
       "options": {
         "a": {
-          "en": "* Traditional-commerce scope is limited to a small physical area [cite: 4].\n* E-commerce scope is limitless and can be worldwide [cite: 4].\n* E-commerce makes it easy to maintain uniform standard practices[cite: 4].",
-          "hi": "* पारंपरिक-कॉमर्स का दायरा एक छोटे भौतिक क्षेत्र तक सीमित है [cite: 4]।\n* ई-कॉमर्स का दायरा असीमित है और विश्वव्यापी हो सकता है [cite: 4]।\n* ई-कॉमर्स समान मानक प्रथाओं को बनाए रखना आसान बनाता है [cite: 4]। "
+          "en": "Net-banking allows customers to perform bank transactions over the internet without visiting the branch. Every customer needs a user-id and password. For security, fund transfers are approved using a One-Time-Password (OTP) sent to the user.",
+          "hi": "नेट-बैंकिंग ग्राहकों को शाखा में आए बिना इंटरनेट पर बैंक लेनदेन करने की अनुमति देती है। प्रत्येक ग्राहक को एक यूजर-आईडी और पासवर्ड की आवश्यकता होती है। सुरक्षा के लिए, फंड ट्रांसफर को उपयोगकर्ता को भेजे गए वन-टाइम-पासवर्ड (OTP) का उपयोग करके अनुमोदित किया जाता है।"
         },
         "b": {
-          "en": "* Traditional-commerce has a worldwide scope via telephone systems [cite: 3, 4].\n* E-commerce scope is strictly limited to local shops only [cite: 3].\n* Establishing uniform practices is difficult in E-commerce[cite: 4].",
-          "hi": "* पारंपरिक-कॉमर्स का टेलीफोन प्रणालियों के माध्यम से विश्वव्यापी दायरा है [cite: 3, 4]।\n* ई-कॉमर्स का दायरा सख्ती से केवल स्थानीय दुकानों तक ही सीमित है [cite: 3]।\n* ई-कॉमर्स में समान प्रथाओं को स्थापित करना कठिन है [cite: 4]।"
+          "en": "Net-banking allows customers to perform bank transactions over the internet without visiting the branch. It is a manual system that does not require any passwords. Online transactions can only be done during the bank’s physical working hours.",
+          "hi": "नेट-बैंकिंग ग्राहकों को शाखा में आए बिना इंटरनेट पर बैंक लेनदेन करने की अनुमति देती है। यह एक मैन्युअल प्रणाली है जिसमें किसी पासवर्ड की आवश्यकता नहीं होती है। ऑनलाइन लेनदेन केवल बैंक के भौतिक कार्य घंटों के दौरान ही किए जा सकते हैं।"
         },
         "c": {
-          "en": "* Traditional commerce is easier to standardize than e-commerce [cite: 4].\n* E-commerce requires face-to-face interaction to maintain standards [cite: 3].\n* Both models have exactly the same physical area scope[cite: 3, 4].",
-          "hi": "* ई-कॉमर्स की तुलना में पारंपरिक कॉमर्स को मानकीकृत करना आसान है [cite: 4]।\n* ई-कॉमर्स को मानकों को बनाए रखने के लिए आमने-सामने बातचीत की आवश्यकता होती है [cite: 3]।\n* दोनों मॉडलों का भौतिक क्षेत्र दायरा बिल्कुल समान है [cite: 3, 4]।"
+          "en": "Net-banking allows customers to perform bank transactions over the internet without visiting the branch. While it is very fast, it is strictly forbidden to be used for bill payments or balance inquiries according to the textbook.",
+          "hi": "नेट-बैंकिंग ग्राहकों को शाखा में आए बिना इंटरनेट पर बैंक लेनदेन करने की अनुमति देती है। हालाँकि यह बहुत तेज़ है, लेकिन पाठ्यपुस्तक के अनुसार बिल भुगतान या बैलेंस पूछताछ के लिए इसका उपयोग करना सख्त मना है।"
         },
         "d": {
-          "en": "* Traditional commerce is limitless because it uses mail systems [cite: 3, 4].\n* E-commerce is manual, making standardization impossible [cite: 3, 4].\n* Standard practices are not required for any type of commerce[cite: 4].",
-          "hi": "* पारंपरिक कॉमर्स असीमित है क्योंकि यह मेल सिस्टम का उपयोग करता है [cite: 3, 4]।\n* ई-कॉमर्स मैनुअल है, जिससे मानकीकरण असंभव हो जाता है [cite: 3, 4]।\n* किसी भी प्रकार के कॉमर्स के लिए मानक प्रथाओं की आवश्यकता नहीं होती है [cite: 4]।"
+          "en": "Net-banking allows customers to perform bank transactions over the internet without visiting the branch. It ensures that even if your password is hacked or your smartphone is stolen, your account remains 100% safe from misuse.",
+          "hi": "नेट-बैंकिंग ग्राहकों को शाखा में आए बिना इंटरनेट पर बैंक लेनदेन करने की अनुमति देती है। यह सुनिश्चित करता है कि यदि आपका पासवर्ड हैक हो जाता है या आपका स्मार्टफोन चोरी हो जाता है, तो भी आपका खाता दुरुपयोग से 100% सुरक्षित रहता है।"
         }
       },
       "correct_option": "a",
       "hint": {
-        "en": "Consider which model uses internet technology to reach across the whole world.",
-        "hi": "विचार करें कि पूरी दुनिया में पहुँचने के लिए कौन सा मॉडल इंटरनेट तकनीक का उपयोग करता है।"
+        "en": "Consider the three critical layers mentioned: Remote access, User-ID/Password, and the role of OTP.",
+        "hi": "उल्लिखित तीन महत्वपूर्ण परतों पर विचार करें: रिमोट एक्सेस, यूजर-आईडी/पासवर्ड, और ओटीपी की भूमिका।"
       },
       "explanation": {
-        "en": "The statements confirming e-commerce's global scope and ease of standardization are correct[cite: 4]. The text states that e-commerce is worldwide and standardized, unlike the local nature of traditional commerce [cite: 4].\n\n**Elimination Logic:**\n* The claim that traditional commerce is worldwide is incorrect; the text says its scope is 'limited' [cite: 4].\n* The idea that e-commerce is limited to local shops is false as its scope is 'limit-less' [cite: 4].\n* The statement that standardization is difficult in e-commerce is wrong; the text says it is 'easy'[cite: 4].",
-        "hi": "ई-कॉमर्स के वैश्विक दायरे और मानकीकरण में आसानी की पुष्टि करने वाले कथन सही हैं [cite: 4]। पाठ कहता है कि ई-कॉमर्स विश्वव्यापी और मानकीकृत है, पारंपरिक कॉमर्स की स्थानीय प्रकृति के विपरीत [cite: 4]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि पारंपरिक कॉमर्स विश्वव्यापी है, गलत है; पाठ कहता है कि इसका दायरा 'सीमित' है [cite: 4]।\n* यह विचार कि ई-कॉमर्स स्थानीय दुकानों तक सीमित है, गलत है क्योंकि इसका दायरा 'असीमित' (limit-less) है [cite: 4]।\n* यह कथन कि ई-कॉमर्स में मानकीकरण कठिन है, गलत है; पाठ कहता है कि यह 'आसान' है [cite: 4]।"
+        "en": "The description accurately combining remote access, authentication (ID/Password), and security (OTP) is correct. These are the specific steps and features listed in the textbook for safe online banking.\n\n**Elimination Logic:**\n* The claim that it is a manual system with no passwords and limited hours is false; it is an automated 24x7 service.\n* The idea that it cannot be used for bill payments is wrong; the text explicitly lists bill payments as a feature.\n* The statement that accounts are safe even after a phone theft is incorrect; the text warns of 'misuse' risks in such cases.",
+        "hi": "रिमोट एक्सेस, प्रमाणीकरण (आईडी/पासवर्ड) और सुरक्षा (ओटीपी) को सटीक रूप से जोड़ने वाला विवरण सही है। सुरक्षित ऑनलाइन बैंकिंग के लिए पाठ्यपुस्तक में सूचीबद्ध ये विशिष्ट चरण और विशेषताएं हैं।\n\n**हटाने का तर्क (Elimination Logic):**\n* बिना पासवर्ड और सीमित घंटों वाली मैन्युअल प्रणाली होने का दावा गलत है; यह एक स्वचालित 24x7 सेवा है।\n* यह विचार कि इसका उपयोग बिल भुगतान के लिए नहीं किया जा सकता, गलत है; पाठ स्पष्ट रूप से बिल भुगतान को एक विशेषता के रूप में सूचीबद्ध करता है।\n* यह कथन कि फोन चोरी के बाद भी खाते सुरक्षित हैं, गलत है; पाठ ऐसे मामलों में 'दुरुपयोग' (misuse) के जोखिमों की चेतावनी देता है।"
       },
       "key_takeaway": {
-        "en": "E-commerce leverages the internet for global operations and uniform business standards[cite: 4].",
-        "hi": "ई-कॉमर्स वैश्विक संचालन और समान व्यावसायिक मानकों के लिए इंटरनेट का लाभ उठाता है [cite: 4]।"
+        "en": "Net-banking provides remote financial control but requires strict ID/Password and OTP security protocols.",
+        "hi": "नेट-बैंकिंग रिमोट वित्तीय नियंत्रण प्रदान करती है लेकिन इसके लिए सख्त आईडी/पासवर्ड और ओटीपी सुरक्षा प्रोटोकॉल की आवश्यकता होती है।"
       }
     },
     {
       "question_id": 6,
       "question": {
-        "en": "Examine the B2B and B2C models of E-commerce. Which description accurately matches their definitions and examples?",
-        "hi": "ई-कॉमर्स के B2B और B2C मॉडल का परीक्षण करें। कौन सा विवरण उनकी परिभाषाओं और उदाहरणों से सटीक रूप से मेल खाता है?"
+        "en": "Spot the INCORRECT statement regarding the advantages and disadvantages of online services.",
+        "hi": "ऑनलाइन सेवाओं के लाभों और नुकसानों के संबंध में गलत कथन को पहचानें।"
       },
       "options": {
         "a": {
-          "en": "* B2B: Shopkeeper buys goods from a whole-seller to sell further (e.g., indiamart.com) [cite: 4].\n* B2C: Consumer buys goods from a shopkeeper for personal use (e.g., flipkart.com) [cite: 4].\n* Nature: Both depend on the nature of the transaction[cite: 4].",
-          "hi": "* B2B: दुकानदार आगे बेचने के लिए थोक विक्रेता से सामान खरीदता है (जैसे, indiamart.com) [cite: 4]।\n* B2C: उपभोक्ता अपने उपयोग के लिए किसी दुकानदार से सामान खरीदता है (जैसे, flipkart.com) [cite: 4]।\n* प्रकृति: दोनों लेनदेन की प्रकृति पर निर्भर करते हैं [cite: 4]। "
+          "en": "Online services offer fast speed because they utilize the internet for data exchange.",
+          "hi": "ऑनलाइन सेवाएँ तेज़ गति प्रदान करती हैं क्योंकि वे डेटा विनिमय के लिए इंटरनेट का उपयोग करती हैं।"
         },
         "b": {
-          "en": "* B2B: Consumer sells goods to another consumer via indiamart.com [cite: 4].\n* B2C: Whole-seller buys stock from a shopkeeper for personal use [cite: 4].\n* Nature: These are only used for physical newspaper ads[cite: 2].",
-          "hi": "* B2B: उपभोक्ता indiamart.com के माध्यम से दूसरे उपभोक्ता को सामान बेचता है [cite: 4]।\n* B2C: थोक विक्रेता अपने उपयोग के लिए दुकानदार से स्टॉक खरीदता है [cite: 4]।\n* प्रकृति: इनका उपयोग केवल भौतिक समाचार पत्र विज्ञापनों के लिए किया जाता है [cite: 2]।"
+          "en": "The convenience of online services allows users to complete tasks from home using a PC or smartphone.",
+          "hi": "ऑनलाइन सेवाओं की सुविधा उपयोगकर्ताओं को पीसी या स्मार्टफोन का उपयोग करके घर से कार्यों को पूरा करने की अनुमति देती है।"
         },
         "c": {
-          "en": "* B2B involves only government transactions [cite: 4].\n* B2C involves only peer-to-peer sales like olx.com [cite: 4].\n* Examples include printvenue.com for standard B2B[cite: 4].",
-          "hi": "* B2B में केवल सरकारी लेनदेन शामिल हैं [cite: 4]।\n* B2C में केवल olx.com जैसी पीयर-टू-पीयर बिक्री शामिल है [cite: 4]।\n* उदाहरणों में मानक B2B के लिए printvenue.com शामिल है [cite: 4]।"
+          "en": "Online services always guarantee 100% security, making it impossible for users to be cheated by fake websites.",
+          "hi": "ऑनलाइन सेवाएँ हमेशा 100% सुरक्षा की गारंटी देती हैं, जिससे उपयोगकर्ताओं के लिए नकली वेबसाइटों द्वारा ठगा जाना असंभव हो जाता है।"
         },
         "d": {
-          "en": "* B2B is when a consumer sells to a business entity [cite: 4].\n* B2C is when a business buys from the government [cite: 4].\n* FlipKart is cited as a primary example of C2C[cite: 4].",
-          "hi": "* B2B तब होता है जब एक उपभोक्ता व्यावसायिक इकाई को बेचता है [cite: 4]।\n* B2C तब होता है जब कोई व्यवसाय सरकार से खरीदता है [cite: 4]।\n* फ्लिपकार्ट को C2C के प्राथमिक उदाहरण के रूप में उद्धृत किया गया है [cite: 4]।"
+          "en": "Online services can become completely useless if the internet connectivity is poor or unavailable.",
+          "hi": "यदि इंटरनेट कनेक्टिविटी खराब या अनुपलब्ध है तो ऑनलाइन सेवाएँ पूरी तरह से बेकार हो सकती हैं।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "c",
       "hint": {
-        "en": "Focus on who the buyer is in each case (a business or an individual consumer).",
-        "hi": "ध्यान दें कि प्रत्येक मामले में खरीदार कौन है (एक व्यवसाय या एक व्यक्तिगत उपभोक्ता)।"
+        "en": "One of these options claims that the internet has no risks at all. Is that what the book says?",
+        "hi": "इनमें से एक विकल्प का दावा है कि इंटरनेट पर कोई जोखिम नहीं है। क्या किताब ऐसा कहती है?"
       },
       "explanation": {
-        "en": "The descriptions defining B2B as business-to-business and B2C as business-to-consumer with their correct examples are correct[cite: 4]. The textbook clearly defines these based on the buyer-seller relationship [cite: 4].\n\n**Elimination Logic:**\n* The claim that indiamart.com is for C2C is incorrect; it is listed under B2B[cite: 4].\n* The idea that B2C is for peer-to-peer sales like OLX is false; OLX is an example of C2C [cite: 4].\n* The statement that Flipkart is C2C is wrong; it is listed under B2C[cite: 4].",
-        "hi": "B2B को बिजनेस-टू-बिजनेस और B2C को बिजनेस-टू-कंज्यूमर के रूप में उनके सही उदाहरणों के साथ परिभाषित करने वाले विवरण सही हैं [cite: 4]। पाठ्यपुस्तक खरीदार-विक्रेता संबंध के आधार पर इन्हें स्पष्ट रूप से परिभाषित करती है [cite: 4]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि indiamart.com C2C के लिए है, गलत है; इसे B2B के अंतर्गत सूचीबद्ध किया गया है [cite: 4]।\n* यह विचार कि B2C, OLX जैसी पीयर-टू-पीयर बिक्री के लिए है, गलत है; OLX, C2C का एक उदाहरण है [cite: 4]।\n* यह कथन कि फ्लिपकार्ट C2C है, गलत है; इसे B2C के अंतर्गत सूचीबद्ध किया गया है [cite: 4]।"
+        "en": "The statement claiming that online services guarantee 100% security and prevent all cheating is incorrect. The textbook specifically lists 'Online Frauds' and 'fake online services' as major disadvantages and risks.\n\n**Elimination Logic:**\n* The facts about fast speed and home convenience are listed as primary 'Advantages' in the text.\n* The point about services being useless without connectivity is listed as a primary 'Disadvantage'.",
+        "hi": "यह दावा करने वाला कथन कि ऑनलाइन सेवाएँ 100% सुरक्षा की गारंटी देती हैं और सभी धोखाधड़ी को रोकती हैं, गलत है। पाठ्यपुस्तक विशेष रूप से 'ऑनलाइन धोखाधड़ी' और 'नकली ऑनलाइन सेवाओं' को प्रमुख नुकसान और जोखिम के रूप में सूचीबद्ध करती है।\n\n**हटाने का तर्क (Elimination Logic):**\n* तेज़ गति और घर की सुविधा के तथ्यों को पाठ में प्राथमिक 'लाभ' के रूप में सूचीबद्ध किया गया है।\n* कनेक्टिविटी के बिना सेवाओं के बेकार होने के बिंदु को प्राथमिक 'नुकसान' के रूप में सूचीबद्ध किया गया है।"
       },
       "key_takeaway": {
-        "en": "B2B and B2C models identify the specific entities involved in an internet-based transaction[cite: 4].",
-        "hi": "B2B और B2C मॉडल इंटरनेट आधारित लेनदेन में शामिल विशिष्ट संस्थाओं की पहचान करते हैं [cite: 4]।"
+        "en": "While fast and convenient, online services carry real risks of fraud and connectivity dependency.",
+        "hi": "तेज़ और सुविधाजनक होने के बावजूद, ऑनलाइन सेवाओं में धोखाधड़ी और कनेक्टिविटी पर निर्भरता के वास्तविक जोखिम होते हैं।"
       }
     },
     {
       "question_id": 7,
       "question": {
-        "en": "Analyze the C2C and C2B models as described in the chapter.",
-        "hi": "अध्याय में वर्णित C2C और C2B मॉडल का विश्लेषण करें।"
+        "en": "Which of the following descriptions about 'Online Form Submission' contains a FALSE fact according to the chapter?",
+        "hi": "अध्याय के अनुसार 'ऑनलाइन फॉर्म सबमिशन' के बारे में निम्नलिखित में से किस विवरण में एक गलत तथ्य है?"
       },
       "options": {
         "a": {
-          "en": "* C2C: Consumer buys goods from another consumer (e.g., olx.com) [cite: 4].\n* C2B: Consumer buys customised goods from a seller (e.g., printvenue.com) [cite: 4].\n* Both involve individuals as the buyer[cite: 4].",
-          "hi": "* C2C: उपभोक्ता दूसरे उपभोक्ता से सामान खरीदता है (जैसे, olx.com) [cite: 4]।\n* C2B: उपभोक्ता विक्रेता से अनुकूलित (customised) सामान खरीदता है (जैसे, printvenue.com) [cite: 4]।\n* दोनों में खरीदार के रूप में व्यक्ति शामिल हैं [cite: 4]। "
+          "en": "Online forms are quick and easy to fill, can be accessed 24x7, and save both time and money for the user.",
+          "hi": "ऑनलाइन फॉर्म भरने में तेज़ और आसान हैं, उन्हें 24x7 एक्सेस किया जा सकता है, और वे उपयोगकर्ता के लिए समय और पैसा दोनों बचाते हैं।"
         },
         "b": {
-          "en": "* C2C: Business buys from a whole-seller for social networking [cite: 4].\n* C2B: Government buys from a shopkeeper via olx.com [cite: 4].\n* Examples include indiamart.com for C2C[cite: 4].",
-          "hi": "* C2C: व्यवसाय सोशल नेटवर्किंग के लिए थोक विक्रेता से खरीदता है [cite: 4]।\n* C2B: सरकार olx.com के माध्यम से दुकानदार से खरीदती है [cite: 4]।\n* उदाहरणों में C2C के लिए indiamart.com शामिल है [cite: 4]।"
+          "en": "Data validation in online forms ensures that only the correct type of data is entered and minimizes manual errors.",
+          "hi": "ऑनलाइन फॉर्म में डेटा वैलिडेशन यह सुनिश्चित करता है कि केवल सही प्रकार का डेटा ही दर्ज किया जाए और यह मैन्युअल त्रुटियों को कम करता है।"
         },
         "c": {
-          "en": "* C2C is only for buying products from the government [cite: 4].\n* C2B stands for 'Consumer to Buyer' and uses indiamart.com [cite: 4].\n* OLX is the primary example for C2B transactions[cite: 4].",
-          "hi": "* C2C केवल सरकार से उत्पाद खरीदने के लिए है [cite: 4]।\n* C2B का अर्थ 'कंज्यूमर टू बायर' है और यह indiamart.com का उपयोग करता है [cite: 4]।\n* OLX C2B लेनदेन के लिए प्राथमिक उदाहरण है [cite: 4]।"
+          "en": "Online forms automatically verify if the user is telling the truth and can detect if the factual information provided is 100% correct.",
+          "hi": "ऑनलाइन फॉर्म स्वचालित रूप से सत्यापित करते हैं कि उपयोगकर्ता सच बोल रहा है या नहीं और यह पता लगा सकते हैं कि प्रदान की गई तथ्यात्मक जानकारी 100% सही है या नहीं।"
         },
         "d": {
-          "en": "* C2C and C2B are identical models with no differences [cite: 4].\n* Both are used exclusively by large businesses only [cite: 4].\n* The chapter states that consumers cannot participate in e-commerce[cite: 2].",
-          "hi": "* C2C और C2B बिना किसी अंतर के एक जैसे मॉडल हैं [cite: 4]।\n* दोनों का उपयोग विशेष रूप से केवल बड़े व्यवसायों द्वारा किया जाता है [cite: 4]।\n* अध्याय बताता है कि उपभोक्ता ई-कॉमर्स में भाग नहीं ले सकते [cite: 2]।"
+          "en": "Users must be careful because their personal information can be stolen by fake online forms on malicious websites.",
+          "hi": "उपयोगकर्ताओं को सावधान रहना चाहिए क्योंकि उनकी व्यक्तिगत जानकारी दुर्भावनापूर्ण वेबसाइटों पर नकली ऑनलाइन फॉर्म द्वारा चुराई जा सकती है।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "c",
       "hint": {
-        "en": "Recall the unique feature of Printvenue (customization) and OLX (peer-to-peer).",
-        "hi": "प्रिंटवेन्यू (अनुकूलन/customization) और OLX (पीयर-टू-पीयर) की अनूठी विशेषता को याद करें।"
+        "en": "Does a computer form know if you are actually 18 years old or just typed '18'?",
+        "hi": "क्या कंप्यूटर फॉर्म को पता है कि आप वास्तव में 18 साल के हैं या आपने सिर्फ '18' टाइप किया है?"
       },
       "explanation": {
-        "en": "The statement accurately linking peer-to-peer sales to C2C and customized goods to C2B is correct[cite: 4]. The textbook provides these specific examples to illustrate the models [cite: 4].\n\n**Elimination Logic:**\n* The claim that OLX is C2B is false; it is listed under C2C [cite: 4].\n* The idea that indiamart.com is C2C is wrong; it is a B2B example [cite: 4].\n* The statement that consumers cannot participate in e-commerce is incorrect as the chapter defines several consumer-based models[cite: 4].",
-        "hi": "पीयर-टू-पीयर बिक्री को C2C से और अनुकूलित वस्तुओं को C2B से सटीक रूप से जोड़ने वाला कथन सही है [cite: 4]। पाठ्यपुस्तक इन मॉडलों को समझाने के लिए ये विशिष्ट उदाहरण प्रदान करती है [cite: 4]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि OLX C2B है, गलत है; इसे C2C के अंतर्गत सूचीबद्ध किया गया है [cite: 4]।\n* यह विचार कि indiamart.com C2C है, गलत है; यह एक B2B उदाहरण है [cite: 4]।\n* यह कथन कि उपभोक्ता ई-कॉमर्स में भाग नहीं ले सकते, गलत है क्योंकि अध्याय कई उपभोक्ता-आधारित मॉडलों को परिभाषित करता है [cite: 4]।"
+        "en": "The statement that online forms can automatically detect if the factual information is true is false. As per the text, validation checks the 'type' of data (like numbers vs text) but cannot verify the truth of the 'facts' themselves.\n\n**Elimination Logic:**\n* The benefits of speed, 24x7 access, and cost-savings are all correctly listed advantages.\n* The role of data validation in reducing errors is a core feature mentioned in the text.\n* The warning about fake forms and information theft is a specific limitation mentioned in the text.",
+        "hi": "यह कथन कि ऑनलाइन फॉर्म स्वचालित रूप से यह पता लगा सकते हैं कि तथ्यात्मक जानकारी सही है या नहीं, गलत है। पाठ के अनुसार, वैलिडेशन डेटा के 'प्रकार' (जैसे संख्या बनाम टेक्स्ट) की जांच करता है लेकिन 'तथ्यों' की सच्चाई को स्वयं सत्यापित नहीं कर सकता।\n\n**हटाने का तर्क (Elimination Logic):**\n* गति, 24x7 पहुंच और लागत-बचत के लाभ सभी सही ढंग से सूचीबद्ध लाभ हैं।\n* त्रुटियों को कम करने में डेटा वैलिडेशन की भूमिका पाठ में उल्लेखित एक मुख्य विशेषता है।\n* नकली फॉर्म और सूचना चोरी के बारे में चेतावनी पाठ में उल्लेखित एक विशिष्ट सीमा है।"
       },
       "key_takeaway": {
-        "en": "C2C facilitates individual trading, while C2B often focuses on customized consumer orders[cite: 4].",
-        "hi": "C2C व्यक्तिगत व्यापार की सुविधा प्रदान करता है, जबकि C2B अक्सर अनुकूलित उपभोक्ता आदेशों पर ध्यान केंद्रित करता है [cite: 4]।"
+        "en": "Online forms validate data types but cannot guarantee the factual truth of the input provided.",
+        "hi": "ऑनलाइन फॉर्म डेटा प्रकारों को मान्य करते हैं लेकिन प्रदान किए गए इनपुट की तथ्यात्मक सच्चाई की गारंटी नहीं दे सकते।"
       }
     },
     {
       "question_id": 8,
       "question": {
-        "en": "Analyze the Government-related e-commerce models (B2G, G2B, G2C).",
-        "hi": "सरकार से संबंधित ई-कॉमर्स मॉडलों (B2G, G2B, G2C) का विश्लेषण करें।"
+        "en": "Rohan wants to plan a holiday. He uses an online reservation portal to book a train ticket and a hotel room. Based on the chapter, which statement best describes his experience?",
+        "hi": "रोहन छुट्टियों की योजना बनाना चाहता है। वह ट्रेन टिकट और होटल के कमरे को बुक करने के लिए ऑनलाइन रिजर्वेशन पोर्टल का उपयोग करता है। अध्याय के आधार पर, कौन सा कथन उसके अनुभव का सबसे अच्छा वर्णन करता है?"
       },
       "options": {
         "a": {
-          "en": "* B2G: Government buys goods or services from a seller [cite: 4].\n* G2B: Business buys goods or services from the Government [cite: 4].\n* G2C: Consumer buys goods or services from the Government[cite: 4].",
-          "hi": "* B2G: सरकार किसी विक्रेता से सामान या सेवाएँ खरीदती है [cite: 4]।\n* G2B: व्यवसाय सरकार से सामान या सेवाएँ खरीदता है [cite: 4]।\n* G2C: उपभोक्ता सरकार से सामान या सेवाएँ खरीदता है [cite: 4]। "
+          "en": "Rohan can book his travel 24x7 from home, but the textbook states that he cannot get any discounts or see information about tourist places online.",
+          "hi": "रोहन घर बैठे 24x7 अपनी यात्रा बुक कर सकता है, लेकिन पाठ्यपुस्तक में कहा गया है कि वह ऑनलाइन कोई छूट प्राप्त नहीं कर सकता या पर्यटन स्थलों के बारे में जानकारी नहीं देख सकता।"
         },
-        "b": {
-          "en": "* B2G: Business sells products to individual consumers only [cite: 4].\n* G2B: Government buys services from another government entity [cite: 4].\n* G2C: Government sells goods to other businesses exclusively[cite: 4].",
-          "hi": "* B2G: व्यवसाय केवल व्यक्तिगत उपभोक्ताओं को उत्पाद बेचता है [cite: 4]।\n* G2B: सरकार दूसरी सरकारी संस्था से सेवाएँ खरीदती है [cite: 4]।\n* G2C: सरकार विशेष रूप से अन्य व्यवसायों को सामान बेचती है [cite: 4]।"
+        ; "b": {
+          "en": "Rohan can plan his travel in advance and choose his seats and rooms. However, he must be careful as it is possible to make a wrong booking by mistake or get cheated by a fake website.",
+          "hi": "रोहन अपनी यात्रा की अग्रिम योजना बना सकता है और अपनी सीटें और कमरे चुन सकता है। हालाँकि, उसे सावधान रहना चाहिए क्योंकि गलती से गलत बुकिंग करना या नकली वेबसाइट द्वारा ठगा जाना संभव है।"
         },
         "c": {
-          "en": "* G2C: When a consumer sells products to the government [cite: 4].\n* B2G: When a government sells its services to a business [cite: 4].\n* These models are only used for physical newspapers[cite: 2].",
-          "hi": "* G2C: जब कोई उपभोक्ता सरकार को उत्पाद बेचता है [cite: 4]।\n* B2G: जब कोई सरकार किसी व्यवसाय को अपनी सेवाएँ बेचती है [cite: 4]।\n* इन मॉडलों का उपयोग केवल भौतिक समाचार पत्रों के लिए किया जाता है [cite: 2]।"
+          "en": "Rohan’s booking experience is strictly an offline service. Even if he uses a website like IRCTC, he must physically visit the station to get his reservation confirmed.",
+          "hi": "रोहन का बुकिंग अनुभव पूरी तरह से एक ऑफ़लाइन सेवा है। भले ही वह IRCTC जैसी वेबसाइट का उपयोग करे, उसे अपना आरक्षण (reservation) पक्का कराने के लिए भौतिक रूप से स्टेशन जाना होगा।"
         },
         "d": {
-          "en": "* B2G, G2B, and G2C are all examples of offline services [cite: 2, 4].\n* They do not require any electronic payment methods [cite: 2].\n* These models are only available for 1 hour a day[cite: 3].",
-          "hi": "* B2G, G2B, और G2C सभी ऑफलाइन सेवाओं के उदाहरण हैं [cite: 2, 4]।\n* उन्हें किसी इलेक्ट्रॉनिक भुगतान विधि की आवश्यकता नहीं होती है [cite: 2]।\n* ये मॉडल दिन में केवल 1 घंटे के लिए उपलब्ध होते हैं [cite: 3]।"
+          "en": "Rohan is using a 'C2B' model of e-commerce because he is an individual consumer buying services from a large professional business like a hotel chain.",
+          "hi": "रोहन ई-कॉमर्स के 'C2B' मॉडल का उपयोग कर रहा है क्योंकि वह एक व्यक्तिगत उपभोक्ता है जो होटल श्रृंखला जैसे बड़े पेशेवर व्यवसाय से सेवाएं खरीद रहा है।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "b",
       "hint": {
-        "en": "Identify who is providing (G=Govt, B=Business) and who is receiving (G, B, C).",
-        "hi": "पहचानें कि कौन प्रदान कर रहा है (G=सरकार, B=व्यवसाय) और कौन प्राप्त कर रहा है (G, B, C)।"
+        "en": "Focus on the 'convenience' versus the 'risks' mentioned in the Online Reservation section.",
+        "hi": "ऑनलाइन रिजर्वेशन अनुभाग में उल्लेखित 'सुविधा' बनाम 'जोखिम' पर ध्यान दें।"
       },
       "explanation": {
-        "en": "The set correctly matching the provider and receiver for B2G, G2B, and G2C is correct[cite: 4]. The textbook defines these based on which party provides and which party consumes the service [cite: 4].\n\n**Elimination Logic:**\n* The claim that B2G is selling to consumers is incorrect; that would be B2C [cite: 4].\n* The idea that G2C is government selling to other businesses is false; the 'C' stands for 'Consumer' [cite: 4].\n* The statement that these are offline services is wrong as they are listed as 'various types of e-commerce'[cite: 4].",
-        "hi": "B2G, G2B और G2C के लिए प्रदाता और प्राप्तकर्ता का सही मिलान करने वाला समूह सही है [cite: 4]। पाठ्यपुस्तक इन्हें इस आधार पर परिभाषित करती है कि कौन सा पक्ष सेवा प्रदान करता है और कौन सा पक्ष उसका उपभोग करता है [cite: 4]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि B2G उपभोक्ताओं को बेचना है, गलत है; वह B2C होगा [cite: 4]।\n* यह विचार कि G2C सरकार का अन्य व्यवसायों को बेचना है, गलत है; 'C' का अर्थ 'कंज्यूमर' (Consumer) है [cite: 4]।\n* यह कथन कि ये ऑफलाइन सेवाएँ हैं, गलत है क्योंकि इन्हें 'ई-कॉमर्स के विभिन्न प्रकारों' के रूप में सूचीबद्ध किया गया है [cite: 4]।"
+        "en": "The statement describing the benefit of advance planning and seat choice along with the risks of manual errors or fake sites is correct. These reflect the specific pros and cons of online reservations mentioned in the text.\n\n**Elimination Logic:**\n* The claim that he cannot get discounts or tourist info is false; the text says these are features/advantages.\n* The idea that he must visit the station for confirmation contradicts the definition of 'online booking'.\n* Buying services from a business is B2C (Business to Consumer), not C2B.",
+        "hi": "अग्रिम योजना और सीट चयन के लाभ के साथ-साथ मैन्युअल त्रुटियों या नकली साइटों के जोखिम का वर्णन करने वाला कथन सही है। ये पाठ में उल्लेखित ऑनलाइन रिजर्वेशन के विशिष्ट लाभों और नुकसानों को दर्शाते हैं।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि वह छूट या पर्यटक जानकारी प्राप्त नहीं कर सकता, गलत है; पाठ कहता है कि ये विशेषताएं/लाभ हैं।\n* पुष्टिकरण के लिए उसे स्टेशन जाना होगा, यह विचार 'ऑनलाइन बुकिंग' की परिभाषा का खंडन करता है।\n* किसी व्यवसाय से सेवाएँ खरीदना B2C (बिजनेस टू कंज्यूमर) है, C2B नहीं।"
       },
       "key_takeaway": {
-        "en": "Government-related e-commerce streamlines transactions between state agencies, businesses, and citizens[cite: 4].",
-        "hi": "सरकार से संबंधित ई-कॉमर्स सरकारी एजेंसियों, व्यवसायों और नागरिकों के बीच लेनदेन को सरल बनाता है [cite: 4]।"
+        "en": "Online reservations offer great flexibility and choice but demand attention to detail and security.",
+        "hi": "ऑनलाइन रिजर्वेशन महान लचीलापन और विकल्प प्रदान करते हैं लेकिन विस्तार और सुरक्षा पर ध्यान देने की मांग करते हैं।"
       }
     },
     {
       "question_id": 9,
       "question": {
-        "en": "Evaluate the information regarding electronic payment modes.",
-        "hi": "इलेक्ट्रॉनिक भुगतान विधियों के संबंध में जानकारी का मूल्यांकन करें।"
+        "en": "Consider the following two statements about Online Customer Support. Which option correctly identifies the accuracy of both?",
+        "hi": "ऑनलाइन ग्राहक सहायता के बारे में निम्नलिखित दो कथनों पर विचार करें। कौन सा विकल्प दोनों की सटीकता की सही पहचान करता है?"
       },
       "options": {
         "a": {
-          "en": "* Modes include UPI (Unified Payment Interface) and Net Banking [cite: 4].\n* Funds can be transferred via NEFT (National Electronic Fund Transfer) [cite: 6].\n* RTGS stands for Real Time Gross Settlement[cite: 6].",
-          "hi": "* भुगतान के तरीकों में UPI और नेट बैंकिंग शामिल हैं [cite: 4]।\n* फंड को NEFT (नेशनल इलेक्ट्रॉनिक फंड ट्रांसफर) के माध्यम से स्थानांतरित किया जा सकता है [cite: 6]।\n* RTGS का अर्थ रियल टाइम ग्रॉस सेटलमेंट (Real Time Gross Settlement) है [cite: 6]। "
+          "en": "Statement 1: It is accessible 24x7 in multiple languages.\nStatement 2: It is generally slower and more expensive than traditional postal support.",
+          "hi": "कथन 1: यह 24x7 कई भाषाओं में सुलभ है।\nकथन 2: यह आम तौर पर पारंपरिक डाक सहायता की तुलना में धीमा और अधिक महंगा है।"
         },
         "b": {
-          "en": "* NEFT and RTGS are strictly for playing online games only [cite: 2, 6].\n* UPI is a manual method that requires physical cash [cite: 2, 4].\n* Credit Cards are considered a primary input device in this chapter[cite: 4].",
-          "hi": "* NEFT और RTGS सख्ती से केवल ऑनलाइन गेम खेलने के लिए हैं [cite: 2, 6]।\n* UPI एक मैनुअल विधि है जिसमें भौतिक नकदी की आवश्यकता होती है [cite: 2, 4]।\n* इस अध्याय में क्रेडिट कार्ड को प्राथमिक इनपुट डिवाइस माना गया है [cite: 4]।"
+          "en": "Statement 1: It allows customers to get help via online chat or phone from home.\nStatement 2: If the service is overloaded, it can lead to long wait times for the user.",
+          "hi": "कथन 1: यह ग्राहकों को घर बैठे ऑनलाइन चैट या फोन के माध्यम से मदद प्राप्त करने की अनुमति देता है।\nकथन 2: यदि सेवा अतिभारित (overloaded) है, तो इससे उपयोगकर्ता के लिए प्रतीक्षा समय लंबा हो सकता है।"
         },
         "c": {
-          "en": "* RTGS stands for 'Ready To Get Service' [cite: 6].\n* NEFT is only used for online marketing of grocery items [cite: 6, 7].\n* All electronic payments require a physical signature on paper[cite: 6].",
-          "hi": "* RTGS का अर्थ 'Ready To Get Service' है [cite: 6]।\n* NEFT का उपयोग केवल किराना सामानों के ऑनलाइन मार्केटिंग के लिए किया जाता है [cite: 6, 7]।\n* सभी इलेक्ट्रॉनिक भुगतानों के लिए कागज पर भौतिक हस्ताक्षर की आवश्यकता होती है [cite: 6]।"
+          "en": "Statement 1: Providing online support requires no special training for the company staff.\nStatement 2: It can be used without any internet connection as it relies on physical mail.",
+          "hi": "कथन 1: ऑनलाइन सहायता प्रदान करने के लिए कंपनी के कर्मचारियों को किसी विशेष प्रशिक्षण की आवश्यकता नहीं होती है।\nकथन 2: इसका उपयोग बिना किसी इंटरनेट कनेक्शन के किया जा सकता है क्योंकि यह भौतिक मेल पर निर्भर करता है।"
         },
         "d": {
-          "en": "* Electronic payments are prohibited on public holidays [cite: 3, 6].\n* Net banking is also called offline-banking in the textbook [cite: 6].\n* UPI can only be used on personal computers, not smartphones[cite: 2, 4].",
-          "hi": "* सार्वजनिक छुट्टियों पर इलेक्ट्रॉनिक भुगतान प्रतिबंधित है [cite: 3, 6]।\n* पाठ्यपुस्तक में नेट बैंकिंग को ऑफलाइन-बैंकिंग भी कहा गया है [cite: 6]।\n* UPI का उपयोग केवल पर्सनल कंप्यूटर पर किया जा सकता है, स्मार्टफोन पर नहीं [cite: 2, 4]।"
+          "en": "Statement 1: It is a manual service that requires users to visit the company head office.\nStatement 2: It saves time and money for the customer and is very easy to use.",
+          "hi": "कथन 1: यह एक मैन्युअल सेवा है जिसमें उपयोगकर्ताओं को कंपनी के प्रधान कार्यालय जाने की आवश्यकता होती है।\nकथन 2: यह ग्राहक के लिए समय और पैसा बचाता है और उपयोग करने में बहुत आसान है।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "b",
       "hint": {
-        "en": "Recall the full forms of NEFT and RTGS and the role of UPI.",
-        "hi": "NEFT और RTGS के पूर्ण रूपों और UPI की भूमिका को याद करें।"
+        "en": "Think about the 'Advantage' of chat/phone and the 'Disadvantage' of wait times.",
+        "hi": "चैट/फोन के 'लाभ' और प्रतीक्षा समय के 'नुकसान' के बारे में सोचें।"
       },
       "explanation": {
-        "en": "The set defining UPI, NEFT, and RTGS correctly with their full forms is accurate[cite: 4, 6]. These are standard modes of electronic payment mentioned in the text [cite: 4, 6].\n\n**Elimination Logic:**\n* The claim that NEFT/RTGS are for games is false; they are for 'electronic fund transfer' [cite: 6].\n* The idea that UPI requires physical cash is incorrect; it is a 'cash-less' method [cite: 2, 4].\n* The statement that net banking is offline-banking is wrong; it is called 'Internet-banking or Online-banking'[cite: 6].",
-        "hi": "UPI, NEFT और RTGS को उनके पूर्ण रूपों के साथ सही ढंग से परिभाषित करने वाला समूह सटीक है [cite: 4, 6]। ये पाठ में उल्लिखित इलेक्ट्रॉनिक भुगतान के मानक तरीके हैं [cite: 4, 6]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि NEFT/RTGS गेम के लिए हैं, गलत है; वे 'इलेक्ट्रॉनिक फंड ट्रांसफर' के लिए हैं [cite: 6]।\n* यह विचार कि UPI में भौतिक नकदी की आवश्यकता होती है, गलत है; यह एक 'कैश-लेस' विधि है [cite: 2, 4]।\n* यह कथन कि नेट बैंकिंग ऑफलाइन-बैंकिंग है, गलत है; इसे 'इंटरनेट बैंकिंग या ऑनलाइन बैंकिंग' कहा जाता है [cite: 6]।"
+        "en": "The combination of the advantage (home help via chat) and the disadvantage (wait times) correctly reflects the textbook content. These are both listed features/risks of online support.\n\n**Elimination Logic:**\n* Online support is 'faster' and 'cheaper' than post, not slower or more expensive.\n* Staff 'must be well trained' for providing online support; it's not a 'no-training' job.\n* It is a remote service, not one that requires visiting the head office.",
+        "hi": "लाभ (चैट के माध्यम से घर पर मदद) और नुकसान (प्रतीक्षा समय) का संयोजन पाठ्यपुस्तक की सामग्री को सही ढंग से दर्शाता है। ये दोनों ऑनलाइन सहायता की सूचीबद्ध विशेषताएं/जोखिम हैं।\n\n**हटाने का तर्क (Elimination Logic):**\n* ऑनलाइन सहायता डाक की तुलना में 'तेज़' और 'सस्ती' है, न कि धीमी या महंगी।\n* ऑनलाइन सहायता प्रदान करने के लिए कर्मचारियों का 'अच्छी तरह प्रशिक्षित होना' आवश्यक है; यह बिना प्रशिक्षण वाला काम नहीं है।\n* यह एक रिमोट सेवा है, न कि ऐसी सेवा जिसमें प्रधान कार्यालय जाने की आवश्यकता हो।"
       },
       "key_takeaway": {
-        "en": "Digital payment methods like UPI, NEFT, and RTGS enable secure and rapid fund transfers electronically[cite: 4, 6].",
-        "hi": "UPI, NEFT और RTGS जैसी डिजिटल भुगतान विधियां इलेक्ट्रॉनिक रूप से सुरक्षित और तीव्र फंड ट्रांसफर को सक्षम बनाती हैं [cite: 4, 6]।"
+        "en": "Online support is efficient and accessible but its quality depends on system load and staff expertise.",
+        "hi": "ऑनलाइन सहायता कुशल और सुलभ है लेकिन इसकी गुणवत्ता सिस्टम लोड और कर्मचारियों की विशेषज्ञता पर निर्भर करती है।"
       }
     },
     {
       "question_id": 10,
       "question": {
-        "en": "Examine the process and requirements of Net-banking.",
-        "hi": "नेट-बैंकिंग की प्रक्रिया और आवश्यकताओं का परीक्षण करें।"
+        "en": "Which of the following descriptions accurately distinguishes between 'Online Marketing' and 'Online Shopping'?",
+        "hi": "निम्नलिखित में से कौन सा विवरण 'ऑनलाइन मार्केटिंग' और 'ऑनलाइन शॉपिंग' के बीच सटीक रूप से अंतर करता है?"
       },
       "options": {
         "a": {
-          "en": "* It is also called Internet-banking or Online-banking [cite: 6].\n* Every customer needs a user-id and password [cite: 6].\n* Online fund transfers are approved with the help of an OTP (one-time-password)[cite: 6].",
-          "hi": "* इसे इंटरनेट-बैंकिंग या ऑनलाइन-बैंकिंग भी कहा जाता है [cite: 6]।\n* प्रत्येक ग्राहक को यूजर-आईडी और पासवर्ड की आवश्यकता होती है [cite: 6]।\n* ऑनलाइन फंड ट्रांसफर को ओटीपी (वन-टाइम-पासवर्ड) की मदद से मंजूरी दी जाती है [cite: 6]। "
+          "en": "Online Marketing is the process of purchasing goods from Amazon, whereas Online Shopping is the process of showing ads on social media.",
+          "hi": "ऑनलाइन मार्केटिंग अमेज़न से सामान खरीदने की प्रक्रिया है, जबकि ऑनलाइन शॉपिंग सोशल मीडिया पर विज्ञापन दिखाने की प्रक्रिया है।"
         },
         "b": {
-          "en": "* Net-banking is used strictly by visiting the bank physically [cite: 6].\n* No password is required for balance-inquiry [cite: 6].\n* Fund transfer is approved only by a physical signature sent via post[cite: 6].",
-          "hi": "* नेट-बैंकिंग का उपयोग केवल भौतिक रूप से बैंक जाकर किया जाता है [cite: 6]।\n* बैलेंस पूछताछ के लिए किसी पासवर्ड की आवश्यकता नहीं होती है [cite: 6]।\n* फंड ट्रांसफर को केवल डाक द्वारा भेजे गए भौतिक हस्ताक्षर द्वारा ही मंजूरी दी जाती है [cite: 6]।"
+          "en": "Online Marketing is the process of advertising products using emails and social media, whereas Online Shopping is the process of purchasing goods from platforms like Myntra or Snapdeal.",
+          "hi": "ऑनलाइन मार्केटिंग ईमेल और सोशल मीडिया का उपयोग करके उत्पादों का विज्ञापन करने की प्रक्रिया है, जबकि ऑनलाइन शॉपिंग मिंत्रा या स्नैपडील जैसे प्लेटफार्मों से सामान खरीदने की प्रक्रिया है।"
         },
         "c": {
-          "en": "* Net-banking allows users to play online games only [cite: 2, 6].\n* OTP is considered a disadvantage because it is slow [cite: 6].\n* A user-id is not required if you use a smartphone[cite: 6].",
-          "hi": "* नेट-बैंकिंग उपयोगकर्ताओं को केवल ऑनलाइन गेम खेलने की अनुमति देती है [cite: 2, 6]।\n* ओटीपी को एक नुकसान माना जाता है क्योंकि यह धीमा है [cite: 6]।\n* यदि आप स्मार्टफोन का उपयोग करते हैं तो यूजर-आईडी की आवश्यकता नहीं होती है [cite: 6]।"
+          "en": "Online Marketing is strictly for government advertisements only, whereas Online Shopping is only for buying second-hand goods on OLX.",
+          "hi": "ऑनलाइन मार्केटिंग कड़ाई से केवल सरकारी विज्ञापनों के लिए है, जबकि ऑनलाइन शॉपिंग केवल OLX पर पुरानी वस्तुओं को खरीदने के लिए है।"
         },
         "d": {
-          "en": "* Net-banking is closed during bank holidays [cite: 6].\n* It is used primarily for social media advertising [cite: 6, 7].\n* A user needs a physical key to access online banking[cite: 6].",
-          "hi": "* बैंक छुट्टियों के दौरान नेट-बैंकिंग बंद रहती है [cite: 6]।\n* इसका उपयोग मुख्य रूप से सोशल मीडिया विज्ञापन के लिए किया जाता है [cite: 6, 7]।\n* ऑनलाइन बैंकिंग तक पहुँचने के लिए उपयोगकर्ता को एक भौतिक कुंजी (physical key) की आवश्यकता होती है [cite: 6]।"
+          "en": "There is no difference between Online Marketing and Online Shopping; they are two names for the exact same physical retail process.",
+          "hi": "ऑनलाइन मार्केटिंग और ऑनलाइन शॉपिंग के बीच कोई अंतर नहीं है; वे बिल्कुल एक ही भौतिक रिटेल प्रक्रिया के दो नाम हैं।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "b",
       "hint": {
-        "en": "Think about how you log in and how you verify a money transfer.",
-        "hi": "सोचें कि आप कैसे लॉग इन करते हैं और मनी ट्रांसफर को कैसे सत्यापित करते हैं।"
+        "en": "Think: Which one is for 'showing' and which one is for 'buying'?",
+        "hi": "सोचें: कौन सा 'दिखाने' के लिए है और कौन सा 'खरीदने' के लिए?"
       },
       "explanation": {
-        "en": "The statements about identification (ID/Password) and security (OTP) are correct[cite: 6]. The text states that net-banking allows transactions without visiting the bank and uses OTP for security [cite: 6].\n\n**Elimination Logic:**\n* The claim that it requires visiting the bank is false; it is for doing transactions 'without physically visiting the bank'[cite: 6].\n* The idea that no password is required is wrong; 'every customer needs a user-id and password' [cite: 6].\n* The statement that it is closed on holidays is incorrect; it can be used 'during bank holidays'[cite: 6].",
-        "hi": "पहचान (ID/Password) और सुरक्षा (OTP) के बारे में कथन सही हैं [cite: 6]। पाठ बताता है कि नेट-बैंकिंग बैंक जाए बिना लेनदेन की अनुमति देती है और सुरक्षा के लिए ओटीपी का उपयोग करती है [cite: 6]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि इसमें बैंक जाने की आवश्यकता होती है, गलत है; यह 'बैंक में भौतिक रूप से आए बिना' लेनदेन करने के लिए है [cite: 6]।\n* यह विचार कि किसी पासवर्ड की आवश्यकता नहीं है, गलत है; 'प्रत्येक ग्राहक को यूजर-आईडी और पासवर्ड की आवश्यकता होती है' [cite: 6]।\n* यह कथन कि यह छुट्टियों पर बंद रहता है, गलत है; इसका उपयोग 'बैंक छुट्टियों के दौरान' किया जा सकता है [cite: 6]।"
+        "en": "The description that correctly defines Marketing as advertising and Shopping as purchasing is correct. Marketing creates awareness through ads, while Shopping enables the actual transaction.\n\n**Elimination Logic:**\n* Option (a) incorrectly swaps the definitions of Marketing and Shopping.\n* Option (c) is wrong because marketing is used by all businesses, not just government, and shopping covers new goods, not just second-hand items.\n* Option (d) is incorrect as they represent distinct steps in the business cycle.",
+        "hi": "मार्केटिंग को विज्ञापन और शॉपिंग को खरीद के रूप में सही ढंग से परिभाषित करने वाला विवरण सही है। मार्केटिंग विज्ञापनों के माध्यम से जागरूकता पैदा करती है, जबकि शॉपिंग वास्तविक लेनदेन को सक्षम बनाती है।\n\n**हटाने का तर्क (Elimination Logic):**\n* विकल्प (a) मार्केटिंग और शॉपिंग की परिभाषाओं को गलत तरीके से बदल देता है।\n* विकल्प (c) गलत है क्योंकि मार्केटिंग का उपयोग सभी व्यवसायों द्वारा किया जाता है, न कि केवल सरकार द्वारा, और शॉपिंग नई वस्तुओं को कवर करती है, न कि केवल सेकंड-हैंड वस्तुओं को।\n* विकल्प (d) गलत है क्योंकि वे व्यावसायिक चक्र में अलग-अलग चरणों का प्रतिनिधित्व करते हैं।"
       },
       "key_takeaway": {
-        "en": "Net-banking facilitates remote account management with multi-layer security (ID/Password + OTP)[cite: 6].",
-        "hi": "नेट-बैंकिंग बहु-स्तरीय सुरक्षा (ID/Password + OTP) के साथ दूरस्थ खाता प्रबंधन की सुविधा प्रदान करती है [cite: 6]।"
+        "en": "Marketing is the advertisement phase, and shopping is the purchase phase of internet business.",
+        "hi": "मार्केटिंग विज्ञापन चरण है, और शॉपिंग इंटरनेट व्यवसाय का खरीद चरण है।"
       }
     },
     {
       "question_id": 11,
       "question": {
-        "en": "Analyze the advantages and disadvantages of net-banking as listed in the chapter.",
-        "hi": "अध्याय में सूचीबद्ध नेट-बैंकिंग के लाभों और नुकसानों का विश्लेषण करें।"
+        "en": "Priya is looking for a job after her graduation. She creates a professional profile on a networking site to share her education and connect with employers. Based on the chapter, which platform and risk are most relevant to her?",
+        "hi": "प्रिया ग्रेजुएशन के बाद नौकरी की तलाश कर रही है। वह अपनी शिक्षा साझा करने और नियोक्ताओं (employers) से जुड़ने के लिए एक नेटवर्किंग साइट पर एक पेशेवर प्रोफाइल बनाती है। अध्याय के आधार पर, उसके लिए कौन सा प्लेटफॉर्म और जोखिम सबसे अधिक प्रासंगिक हैं?"
       },
       "options": {
         "a": {
-          "en": "* Advantage: Can be used 24x7; convenient from anywhere using PC or smartphone [cite: 6].\n* Disadvantage: Cannot be used if the internet service is unavailable or bank server is down [cite: 6].\n* Risk: Can be misused if your password is hacked or smartphone is stolen[cite: 6].",
-          "hi": "* लाभ: 24x7 उपयोग किया जा सकता है; पीसी या स्मार्टफोन का उपयोग करके कहीं से भी सुविधाजनक [cite: 6]।\n* नुकसान: यदि इंटरनेट सेवा अनुपलब्ध है या बैंक सर्वर डाउन है तो इसका उपयोग नहीं किया जा सकता है [cite: 6]।\n* जोखिम: यदि आपका पासवर्ड हैक हो जाए या स्मार्टफोन चोरी हो जाए तो इसका दुरुपयोग किया जा सकता है [cite: 6]। "
+          "en": "Priya should use Instagram to build career connections. The primary risk is that she will only be able to see celebrity videos instead of job offers.",
+          "hi": "प्रिया को करियर कनेक्शन बनाने के लिए इंस्टाग्राम का उपयोग करना चाहिए। प्राथमिक जोखिम यह है कि वह नौकरी के प्रस्तावों के बजाय केवल मशहूर हस्तियों के वीडियो देख पाएगी।"
         },
         "b": {
-          "en": "* Advantage: It is strictly for beginners and requires no learning [cite: 6].\n* Disadvantage: It is too slow because it does not use the internet [cite: 6].\n* Risk: Hacking is considered a security feature in the textbook[cite: 6].",
-          "hi": "* लाभ: यह कड़ाई से शुरुआती लोगों के लिए है और इसमें कुछ भी सीखने की आवश्यकता नहीं है [cite: 6]।\n* नुकसान: यह बहुत धीमा है क्योंकि यह इंटरनेट का उपयोग नहीं करता है [cite: 6]।\n* जोखिम: पाठ्यपुस्तक में हैकिंग को एक सुरक्षा विशेषता माना गया है [cite: 6]।"
+          "en": "Priya should use LinkedIn to build professional connections and find jobs. However, she must be aware of risks like addiction and profile misuse by hackers.",
+          "hi": "प्रिया को पेशेवर संबंध बनाने और नौकरी खोजने के लिए लिंक्डइन का उपयोग करना चाहिए। हालाँकि, उसे लत (addiction) और हैकर्स द्वारा प्रोफाइल के दुरुपयोग जैसे जोखिमों के प्रति सचेत रहना चाहिए।"
         },
         "c": {
-          "en": "* Advantage: Net-banking is only accessible during bank holidays [cite: 6].\n* Disadvantage: Money can only be transferred after 30 days [cite: 6].\n* Risk: There is zero risk if your smartphone is stolen[cite: 6].",
-          "hi": "* लाभ: नेट-बैंकिंग केवल बैंक छुट्टियों के दौरान ही सुलभ है [cite: 6]।\n* नुकसान: पैसा केवल 30 दिनों के बाद ही ट्रांसफर किया जा सकता है [cite: 6]।\n* जोखिम: यदि आपका स्मार्टफोन चोरी हो जाता है तो शून्य जोखिम है [cite: 6]।"
+          "en": "Priya should use WhatsApp to search for global companies. The textbook states that using such social networking platforms guarantees that she will never be cheated.",
+          "hi": "प्रिया को वैश्विक कंपनियों की तलाश के लिए व्हाट्सएप का उपयोग करना चाहिए। पाठ्यपुस्तक में कहा गया है कि ऐसे सोशल नेटवर्किंग प्लेटफॉर्म का उपयोग करना इस बात की गारंटी देता है कि उसे कभी ठगा नहीं जाएगा।"
         },
         "d": {
-          "en": "* Advantage: It requires physical presence for every balance-inquiry [cite: 6].\n* Disadvantage: Simple and easy operation is listed as a major drawback [cite: 6].\n* Risk: Passwords are not needed for fund transfer[cite: 6].",
-          "hi": "* लाभ: इसके लिए प्रत्येक बैलेंस पूछताछ के लिए भौतिक उपस्थिति की आवश्यकता होती है [cite: 6]।\n* नुकसान: सरल और आसान संचालन को एक प्रमुख कमी के रूप में सूचीबद्ध किया गया है [cite: 6]।\n* जोखिम: फंड ट्रांसफर के लिए पासवर्ड की आवश्यकता नहीं होती है [cite: 6]।"
+          "en": "Priya should use YouTube to create her bio-data. The main limitation is that social networking platforms are only available via physical mail systems.",
+          "hi": "प्रिया को अपना बायो-डेटा बनाने के लिए यूट्यूब का उपयोग करना चाहिए। मुख्य सीमा यह है कि सोशल नेटवर्किंग प्लेटफॉर्म केवल भौतिक मेल सिस्टम के माध्यम से ही उपलब्ध होते हैं।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "b",
       "hint": {
-        "en": "Look for the trade-off between 24x7 convenience and technical/security vulnerabilities.",
-        "hi": "24x7 सुविधा और तकनीकी/सुरक्षा कमजोरियों के बीच के संतुलन को देखें।"
+        "en": "Which site is specifically described for 'career connections' and 'finding jobs'?",
+        "hi": "किस साइट को विशेष रूप से 'करियर कनेक्शन' और 'नौकरी खोजने' के लिए वर्णित किया गया है?"
       },
       "explanation": {
-        "en": "The set of statements identifying 24x7 access, server dependency, and theft risks is correct[cite: 6]. These points are explicitly detailed in the pros/cons section for net-banking [cite: 6].\n\n**Elimination Logic:**\n* The claim that it's too slow is false; it's 'very fast' [cite: 6].\n* The idea that hacking is a security feature is obviously wrong; it's a 'misuse' risk [cite: 6].\n* The statement that there is zero risk if a phone is stolen contradicts the 'Disadvantages' section[cite: 6].",
-        "hi": "24x7 पहुंच, सर्वर निर्भरता और चोरी के जोखिमों की पहचान करने वाला कथनों का समूह सही है [cite: 6]। ये बिंदु नेट-बैंकिंग के पक्ष/विपक्ष अनुभाग में स्पष्ट रूप से विस्तृत हैं [cite: 6]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि यह बहुत धीमा है, गलत है; यह 'बहुत तेज़' (very fast) है [cite: 6]।\n* यह विचार कि हैकिंग एक सुरक्षा विशेषता है, स्पष्ट रूप से गलत है; यह एक 'दुरुपयोग' का जोखिम है [cite: 6]।\n* यह कथन कि फोन चोरी होने पर शून्य जोखिम है, 'नुकसान' अनुभाग का खंडन करता है [cite: 6]।"
+        "en": "The scenario identifying LinkedIn as the professional platform and mentioning addiction/hacking as risks is correct. The text explicitly links LinkedIn to career growth and lists these specific security risks.\n\n**Elimination Logic:**\n* Instagram is for photos/trends/celebrities, not primary professional job hunting.\n* WhatsApp is for messaging, and the text says fake users can 'cheat' (no guarantee of safety).\n* YouTube is for videos, and social networking is an online service, not a mail-based one.",
+        "hi": "लिंक्डइन को पेशेवर प्लेटफॉर्म के रूप में पहचानने और लत/हैकर्स को जोखिम के रूप में उल्लेख करने वाला परिदृश्य सही है। पाठ स्पष्ट रूप से लिंक्डइन को करियर विकास से जोड़ता है और इन विशिष्ट सुरक्षा जोखिमों को सूचीबद्ध करता है।\n\n**हटाने का तर्क (Elimination Logic):**\n* इंस्टाग्राम फोटो/ट्रेंड/सेलिब्रिटी के लिए है, न कि प्राथमिक पेशेवर नौकरी की तलाश के लिए।\n* व्हाट्सएप संदेश भेजने के लिए है, और पाठ कहता है कि नकली उपयोगकर्ता 'ठग' (cheat) सकते हैं (सुरक्षा की कोई गारंटी नहीं)।\n* यूट्यूब वीडियो के लिए है, और सोशल नेटवर्किंग एक ऑनलाइन सेवा है, न कि मेल-आधारित।"
       },
       "key_takeaway": {
-        "en": "Net-banking offers instant accessibility but demands reliable internet and vigilant personal security[cite: 6].",
-        "hi": "नेट-बैंकिंग तत्काल पहुँच प्रदान करती है लेकिन इसके लिए विश्वसनीय इंटरनेट और सतर्क व्यक्तिगत सुरक्षा की आवश्यकता होती है [cite: 6]।"
+        "en": "Social networking serves specific needs (social vs. professional) but requires awareness of cybersecurity threats.",
+        "hi": "सोशल नेटवर्किंग विशिष्ट आवश्यकताओं (सामाजिक बनाम पेशेवर) की सेवा करती है लेकिन इसके लिए साइबर सुरक्षा खतरों के प्रति जागरूकता की आवश्यकता होती है।"
       }
     },
     {
       "question_id": 12,
       "question": {
-        "en": "Analyze the benefits and limitations of 'Online Form Submission'.",
-        "hi": "'ऑनलाइन फॉर्म सबमिशन' के लाभों और सीमाओं का विश्लेषण करें।"
+        "en": "Identify the set of statements that contains an INCORRECT definition of E-commerce types.",
+        "hi": "उन कथनों के समूह की पहचान करें जिनमें ई-कॉमर्स प्रकारों की एक गलत परिभाषा है।"
       },
       "options": {
         "a": {
-          "en": "* Benefits: Quick and easy to fill; saves time and money [cite: 9].\n* Limitations: Only validates type of data, not correctness [cite: 9].\n* Feature: Confirmations are sent via email or SMS[cite: 9].",
-          "hi": "* लाभ: भरने में तेज़ और आसान; समय और पैसा बचाता है [cite: 9]।\n* सीमाएँ: केवल डेटा के प्रकार को मान्य करता है, शुद्धता को नहीं [cite: 9]।\n* विशेषता: पुष्टिकरण (Confirmations) ईमेल या एसएमएस के माध्यम से भेजे जाते हैं [cite: 9]। "
+          "en": "* B2B is when a shopkeeper buys stock from a wholesaler via indiamart.com.\n* B2C is when an individual buys a shirt for personal use via flipkart.com.",
+          "hi": "* B2B वह है जब एक दुकानदार indiamart.com के माध्यम से थोक विक्रेता से स्टॉक खरीदता है।\n* B2C वह है जब कोई व्यक्ति flipkart.com के माध्यम से व्यक्तिगत उपयोग के लिए शर्ट खरीदता है।"
         },
         "b": {
-          "en": "* Benefits: They are slower than manual forms and more expensive [cite: 9].\n* Limitations: They always guarantee that the data entered is 100% true [cite: 9].\n* Feature: They cannot be used for admission or exam forms[cite: 9].",
-          "hi": "* लाभ: वे मैनुअल फॉर्म की तुलना में धीमे और अधिक महंगे हैं [cite: 9]।\n* सीमाएँ: वे हमेशा गारंटी देते हैं कि दर्ज किया गया डेटा 100% सच है [cite: 9]।\n* विशेषता: उनका उपयोग प्रवेश या परीक्षा फॉर्म के लिए नहीं किया जा सकता है [cite: 9]।"
+          "en": "* C2C is when a person sells their old bike to another person via olx.com.\n* C2B is when a consumer buys a customized coffee mug with their name on it via printvenue.com.",
+          "hi": "* C2C वह है जब कोई व्यक्ति olx.com के माध्यम से दूसरे व्यक्ति को अपनी पुरानी बाइक बेचता है।\n* C2B वह है जब एक उपभोक्ता printvenue.com के माध्यम से अपने नाम वाला अनुकूलित (customized) कॉफी मग खरीदता है।"
         },
         "c": {
-          "en": "* Benefits: Online forms require no internet connection for submission [cite: 8, 9].\n* Limitations: There is never any limit for file size [cite: 9].\n* Feature: Information can never be stolen by fake forms[cite: 9].",
-          "hi": "* लाभ: ऑनलाइन फॉर्म जमा करने के लिए इंटरनेट कनेक्शन की आवश्यकता नहीं होती है [cite: 8, 9]।\n* सीमाएँ: फ़ाइल आकार के लिए कभी कोई सीमा नहीं होती है [cite: 9]।\n* विशेषता: नकली फॉर्म द्वारा जानकारी कभी नहीं चुराई जा सकती है [cite: 9]।"
+          "en": "* G2C is when a citizen pays their electricity bill using a government portal.\n* B2G is when the government buys laptops for its offices from a private dealer.",
+          "hi": "* G2C वह है जब कोई नागरिक सरकारी पोर्टल का उपयोग करके अपने बिजली बिल का भुगतान करता है।\n* B2G वह है जब सरकार अपने कार्यालयों के लिए किसी निजी डीलर से लैपटॉप खरीदती है।"
         },
         "d": {
-          "en": "* Benefits: They only accept invalid data [cite: 9].\n* Limitations: They are only available for 1 hour a week [cite: 9].\n* Feature: Manual forms are listed as faster in the textbook[cite: 9].",
-          "hi": "* लाभ: वे केवल अमान्य (invalid) डेटा स्वीकार करते हैं [cite: 9]।\n* सीमाएँ: वे सप्ताह में केवल 1 घंटे के लिए उपलब्ध होते हैं [cite: 9]।\n* विशेषता: पाठ्यपुस्तक में मैनुअल फॉर्म को तेज़ सूचीबद्ध किया गया है [cite: 9]।"
+          "en": "* B2B stands for 'Business to Buyer' and always involves consumers selling to businesses.\n* C2B stands for 'Company to Business' and involves only offline marketing.",
+          "hi": "* B2B का अर्थ 'बिजनेस टू बायर' है और इसमें हमेशा उपभोक्ताओं द्वारा व्यवसायों को बेचना शामिल होता है।\n* C2B का अर्थ 'कंपनी टू बिजनेस' है और इसमें केवल ऑफ़लाइन मार्केटिंग शामिल है।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "d",
       "hint": {
-        "en": "Focus on the 'validated data' point and the risk of fake forms.",
-        "hi": "'मान्य डेटा' (validated data) बिंदु और नकली फॉर्म के जोखिम पर ध्यान दें।"
+        "en": "Look closely at the full forms of B2B and C2B in the last option.",
+        "hi": "अंतिम विकल्प में B2B और C2B के पूर्ण रूपों को ध्यान से देखें।"
       },
       "explanation": {
-        "en": "The statements confirming speed, type-only validation, and automated confirmations are correct[cite: 9]. The textbook lists these specific points as advantages and limitations [cite: 9].\n\n**Elimination Logic:**\n* The claim that they guarantee true facts is false; they validate 'type of data, not correctness'[cite: 9].\n* The idea that there is no file size limit is incorrect; 'there is limitation for the file size'[cite: 9].\n* The statement that fake forms cannot steal information is wrong; 'information of users can be stolen by fake online forms'[cite: 9].",
-        "hi": "गति, केवल-प्रकार (type-only) वैलिडेशन और स्वचालित पुष्टिकरण की पुष्टि करने वाले कथन सही हैं [cite: 9]। पाठ्यपुस्तक इन विशिष्ट बिंदुओं को लाभ और सीमाओं के रूप में सूचीबद्ध करती है [cite: 9]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि वे सच्चे तथ्यों की गारंटी देते हैं, गलत है; वे 'डेटा के प्रकार को मान्य करते हैं, शुद्धता को नहीं' [cite: 9]।\n* यह विचार कि फ़ाइल आकार की कोई सीमा नहीं है, गलत है; 'फ़ाइल साइज़ की सीमाएँ होती हैं' (limitation for the file size) [cite: 9]।\n* यह कथन कि नकली फॉर्म जानकारी नहीं चुरा सकते, गलत है; 'फर्जी ऑनलाइन फॉर्म का इस्तेमाल कर यूजर्स की जानकारी चुराई जा सकती है' [cite: 9]।"
+        "en": "The set of statements providing false full forms and definitions for B2B and C2B is the incorrect one. B2B is 'Business to Business' and C2B is 'Consumer to Business' focusing on customized orders.\n\n**Elimination Logic:**\n* The definitions and examples for B2B/B2C in option (a) match the text exactly.\n* The definitions and examples for C2C/C2B in option (b) match the text exactly.\n* The definitions for government-based models (G2C/B2G) in option (c) match the text exactly.",
+        "hi": "B2B और C2B के लिए गलत पूर्ण रूप और परिभाषाएँ प्रदान करने वाला कथनों का समूह गलत है। B2B 'बिजनेस टू बिजनेस' है और C2B 'कंज्यूमर टू बिजनेस' है जो अनुकूलित आदेशों पर केंद्रित है।\n\n**हटाने का तर्क (Elimination Logic):**\n* विकल्प (a) में B2B/B2C की परिभाषाएं और उदाहरण पाठ से बिल्कुल मेल खाते हैं।\n* विकल्प (b) में C2C/C2B की परिभाषाएं और उदाहरण पाठ से बिल्कुल मेल खाते हैं।\n* विकल्प (c) में सरकार-आधारित मॉडल (G2C/B2G) की परिभाषाएं पाठ से बिल्कुल मेल खाते हैं।"
       },
       "key_takeaway": {
-        "en": "Online forms streamline data collection with automated checks but require users to verify their own facts[cite: 9].",
-        "hi": "ऑनलाइन फॉर्म स्वचालित जांच के साथ डेटा संग्रह को सरल बनाते हैं लेकिन उपयोगकर्ताओं को अपने तथ्यों को स्वयं सत्यापित करने की आवश्यकता होती है [cite: 9]।"
+        "en": "The names of E-commerce models indicate the role of the provider and the customer in the transaction.",
+        "hi": "ई-कॉमर्स मॉडल के नाम लेनदेन में प्रदाता और ग्राहक की भूमिका को दर्शाते हैं।"
       }
     },
     {
       "question_id": 13,
       "question": {
-        "en": "Examine 'Online Reservation' and its related portals.",
-        "hi": "'ऑनलाइन रिजर्वेशन' और इसके संबंधित पोर्टलों का परीक्षण करें।"
+        "en": "Which of the following describes the most complete and accurate view of 'Electronic Payments' according to the chapter?",
+        "hi": "अध्याय के अनुसार 'इलेक्ट्रॉनिक भुगतान' का सबसे पूर्ण और सटीक दृश्य निम्नलिखित में से कौन सा है?"
       },
       "options": {
         "a": {
-          "en": "* It means doing online booking of services like bus, train, flight, or hotel [cite: 9].\n* Examples include www.irctc.com and www.makemytrip.com [cite: 9].\n* It helps to plan travel in advance and get discounts[cite: 22].",
-          "hi": "* इसका अर्थ है बस, ट्रेन, फ्लाइट या होटल जैसी सेवाओं की ऑनलाइन बुकिंग करना [cite: 9]।\n* उदाहरणों में www.irctc.com और www.makemytrip.com शामिल हैं [cite: 9]।\n* यह पहले से यात्रा की योजना बनाने और छूट पाने में मदद करता है [cite: 22]। "
+          "en": "Electronic payments are paperless and promote a cashless system. They include modes like UPI (Unified Payment Interface) and fund transfers like NEFT and RTGS. These methods are fast and can be used for online shopping and bill payments.",
+          "hi": "इलेक्ट्रॉनिक भुगतान पेपरलेस होते हैं और कैशलेस सिस्टम को बढ़ावा देते हैं। इनमें UPI (यूनिफाइड पेमेंट इंटरफ़ेस) जैसे मोड और NEFT और RTGS जैसे फंड ट्रांसफर शामिल हैं। ये तरीके तेज़ हैं और इनका उपयोग ऑनलाइन शॉपिंग और बिल भुगतान के लिए किया जा सकता है।"
         },
         "b": {
-          "en": "* Online reservation is only for grocery shopping on blinkingit.com [cite: 7, 9].\n* Examples include Facebook for train booking exclusively [cite: 9, 25].\n* It is strictly an offline service done at a station[cite: 9].",
-          "hi": "* ऑनलाइन रिजर्वेशन केवल blinkingit.com पर किराना खरीदारी के लिए है [cite: 7, 9]।\n* उदाहरणों में विशेष रूप से ट्रेन बुकिंग के लिए फेसबुक शामिल है [cite: 9, 25]।\n* यह सख्ती से स्टेशन पर की जाने वाली एक ऑफलाइन सेवा है [cite: 9]।"
+          "en": "Electronic payments are paperless and promote a cashless system. They are much slower than using cash but are used because the textbook says physical cash is forbidden in India for any type of shopping.",
+          "hi": "इलेक्ट्रॉनिक भुगतान पेपरलेस होते हैं और कैशलेस सिस्टम को बढ़ावा देते हैं। वे नकद उपयोग करने की तुलना में बहुत धीमे हैं लेकिन उनका उपयोग इसलिए किया जाता है क्योंकि पाठ्यपुस्तक कहती है कि भारत में किसी भी प्रकार की खरीदारी के लिए भौतिक नकदी प्रतिबंधित है।"
         },
         "c": {
-          "en": "* IRCTC is a portal used for social media networking [cite: 9, 25].\n* MakeMyTrip is listed as an online examination form portal [cite: 9].\n* Online reservation prevents users from getting any discounts[cite: 22].",
-          "hi": "* IRCTC सोशल मीडिया नेटवर्किंग के लिए उपयोग किया जाने वाला एक पोर्टल है [cite: 9, 25]।\n* MakeMyTrip को एक ऑनलाइन परीक्षा फॉर्म पोर्टल के रूप में सूचीबद्ध किया गया है [cite: 9]।\n* ऑनलाइन रिजर्वेशन उपयोगकर्ताओं को कोई भी छूट पाने से रोकता है [cite: 22]।"
+          "en": "Electronic payments are paperless and promote a cashless system. They can only be used on public holidays and are strictly unavailable during standard bank working hours.",
+          "hi": "इलेक्ट्रॉनिक भुगतान पेपरलेस होते हैं और कैशलेस सिस्टम को बढ़ावा देते हैं। उनका उपयोग केवल सार्वजनिक छुट्टियों पर किया जा सकता है और मानक बैंक कार्य घंटों के दौरान वे पूरी तरह से अनुपलब्ध होते हैं।"
         },
         "d": {
-          "en": "* Online reservation is only possible without internet [cite: 9, 22].\n* There is no chance of making a wrong booking online [cite: 22].\n* All reservation portals are fake according to the chapter[cite: 22].",
-          "hi": "* ऑनलाइन रिजर्वेशन केवल बिना इंटरनेट के ही संभव है [cite: 9, 22]।\n* ऑनलाइन गलत बुकिंग होने की कोई संभावना नहीं है [cite: 22]।\n* अध्याय के अनुसार सभी रिजर्वेशन पोर्टल नकली हैं [cite: 22]।"
+          "en": "Electronic payments are paperless and promote a cashless system. However, they are only allowed for business transactions between two large factories and can never be used by individual citizens.",
+          "hi": "इलेक्ट्रॉनिक भुगतान पेपरलेस होते हैं और कैशलेस सिस्टम को बढ़ावा देते हैं। हालाँकि, वे केवल दो बड़ी फैक्ट्रियों के बीच व्यावसायिक लेनदेन के लिए अनुमत हैं और व्यक्तिगत नागरिकों द्वारा कभी उपयोग नहीं किए जा सकते।"
         }
       },
       "correct_option": "a",
       "hint": {
-        "en": "Match the service names (bus, train, hotel) to the example websites like IRCTC.",
-        "hi": "सेवा नामों (बस, ट्रेन, होटल) का IRCTC जैसी उदाहरण वेबसाइटों से मिलान करें।"
+        "en": "Ensure the description covers speed, types (UPI/NEFT), and the fact that everyone can use them.",
+        "hi": "सुनिश्चित करें कि विवरण गति, प्रकार (UPI/NEFT), और इस तथ्य को कवर करता है कि हर कोई उनका उपयोग कर सकता है।"
       },
       "explanation": {
-        "en": "The statements defining online reservation and naming IRCTC and MakeMyTrip as examples are correct[cite: 9]. The textbook lists these specific websites for travel and hotel bookings [cite: 9].\n\n**Elimination Logic:**\n* The claim that it is an offline service is false; it is defined as 'doing online booking'[cite: 9].\n* The idea that Facebook is for train booking is incorrect; Facebook is a social networking platform[cite: 25].\n* The statement that it prevents discounts is wrong; 'customers can get discount while doing online-booking'[cite: 22].",
-        "hi": "ऑनलाइन रिजर्वेशन को परिभाषित करने वाले और IRCTC और MakeMyTrip को उदाहरण के रूप में नाम देने वाले कथन सही हैं [cite: 9]। पाठ्यपुस्तक यात्रा और होटल बुकिंग के लिए इन विशिष्ट वेबसाइटों को सूचीबद्ध करती है [cite: 9]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि यह एक ऑफलाइन सेवा है, गलत है; इसे 'ऑनलाइन बुकिंग करना' के रूप में परिभाषित किया गया है [cite: 9]।\n* यह विचार कि फेसबुक ट्रेन बुकिंग के लिए है, गलत है; फेसबुक एक सोशल नेटवर्किंग प्लेटफॉर्म है [cite: 25]।\n* यह कथन कि यह छूट रोकता है, गलत है; 'ग्राहक ऑनलाइन बुकिंग करते समय छूट पा सकते हैं' [cite: 22]।"
+        "en": "The description that highlights the cashless nature, various modes (UPI, NEFT, RTGS), and their speed is correct. These are the key aspects of electronic payments defined in the text.\n\n**Elimination Logic:**\n* The claim that digital payments are slower than cash is false; 'fast speed' is an advantage of online services.\n* The idea that they are only for holidays is incorrect; net-banking is available '24x7'.\n* The statement that citizens cannot use them is wrong; citizens use them for bill payments and shopping.",
+        "hi": "कैशलेस प्रकृति, विभिन्न तरीकों (UPI, NEFT, RTGS) और उनकी गति पर प्रकाश डालने वाला विवरण सही है। ये पाठ में परिभाषित इलेक्ट्रॉनिक भुगतान के प्रमुख पहलू हैं।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि डिजिटल भुगतान नकद से धीमे हैं, गलत है; 'तेज़ गति' ऑनलाइन सेवाओं का एक लाभ है।\n* यह विचार कि वे केवल छुट्टियों के लिए हैं, गलत है; नेट-बैंकिंग '24x7' उपलब्ध है।\n* यह कथन कि नागरिक उनका उपयोग नहीं कर सकते, गलत है; नागरिक बिल भुगतान और खरीदारी के लिए उनका उपयोग करते हैं।"
       },
       "key_takeaway": {
-        "en": "Online reservation portals offer integrated travel planning, variety, and financial benefits[cite: 9, 22].",
-        "hi": "ऑनलाइन रिजर्वेशन पोर्टल एकीकृत यात्रा योजना, विविधता और वित्तीय लाभ प्रदान करते हैं [cite: 9, 22]।"
+        "en": "Electronic payments facilitate a modern, efficient, and cashless economy through diverse digital channels.",
+        "hi": "इलेक्ट्रॉनिक भुगतान विभिन्न डिजिटल चैनलों के माध्यम से एक आधुनिक, कुशल और कैशलेस अर्थव्यवस्था की सुविधा प्रदान करते हैं।"
       }
     },
     {
       "question_id": 14,
       "question": {
-        "en": "Analyze 'Online Marketing' and 'Online Shopping' based on the chapter.",
-        "hi": "अध्याय के आधार पर 'ऑनलाइन मार्केटिंग' और 'ऑनलाइन शॉपिंग' का विश्लेषण करें।"
+        "en": "Analyze the comparison table of Traditional vs E-commerce. Which of the following sets of data is ENTIRELY accurate?",
+        "hi": "पारंपरिक बनाम ई-कॉमर्स की तुलना तालिका का विश्लेषण करें। निम्नलिखित में से कौन सा डेटा सेट पूरी तरह से सटीक है?"
       },
       "options": {
         "a": {
-          "en": "* Online marketing: Advertising products using e-mails and social media ads [cite: 24].\n* Online shopping: Purchasing products from platforms like Amazon and Myntra [cite: 24].\n* Examples: Snapdeal and Meesho are popular shopping websites[cite: 24].",
-          "hi": "* ऑनलाइन मार्केटिंग: ई-मेल और सोशल मीडिया विज्ञापनों का उपयोग करके उत्पादों का विज्ञापन [cite: 24]।\n* ऑनलाइन शॉपिंग: अमेज़ॅन और मिंत्रा जैसे प्लेटफार्मों से उत्पाद खरीदना [cite: 24]।\n* उदाहरण: स्नैपडील और मीशो लोकप्रिय शॉपिंग वेबसाइट हैं [cite: 24]। "
+          "en": "* Traditional: Limitless scope; Automatic processing; Instant delivery.\n* E-commerce: Limited scope; Manual processing; Delayed delivery.",
+          "hi": "* पारंपरिक: असीमित दायरा; स्वचालित प्रोसेसिंग; तत्काल डिलीवरी।\n* ई-कॉमर्स: सीमित दायरा; मैन्युअल प्रोसेसिंग; विलंबित डिलीवरी।"
         },
         "b": {
-          "en": "* Marketing is the process of buying goods only [cite: 24].\n* Shopping is only for advertising products on the internet [cite: 24].\n* Amazon.in is an example of an online examination form[cite: 9, 24].",
-          "hi": "* मार्केटिंग केवल सामान खरीदने की प्रक्रिया है [cite: 24]।\n* शॉपिंग केवल इंटरनेट पर उत्पादों के विज्ञापन के लिए है [cite: 24]।\n* Amazon.in ऑनलाइन परीक्षा फॉर्म का एक उदाहरण है [cite: 9, 24]।"
+          "en": "* Traditional: Small area scope; Manual processing; Instant delivery.\n* E-commerce: Worldwide scope; Automatic processing; Delivery takes time.",
+          "hi": "* पारंपरिक: छोटा क्षेत्र दायरा; मैन्युअल प्रोसेसिंग; तत्काल डिलीवरी।\n* ई-कॉमर्स: विश्वव्यापी दायरा; स्वचालित प्रोसेसिंग; डिलीवरी में समय लगता है।"
         },
         "c": {
-          "en": "* Online marketing is also called 'Offline-marketing' [cite: 24].\n* Online shopping is only possible via telephone calls [cite: 3, 24].\n* Snapdeal and Myntra are social networking platforms[cite: 24, 25].",
-          "hi": "* ऑनलाइन मार्केटिंग को 'ऑफलाइन-मार्केटिंग' भी कहा जाता है [cite: 24]।\n* ऑनलाइन शॉपिंग केवल टेलीफोन कॉल के माध्यम से संभव है [cite: 3, 24]।\n* स्नैपडील और मिंत्रा सोशल नेटवर्किंग प्लेटफॉर्म हैं [cite: 24, 25]।"
+          "en": "* Traditional: Face-to-face interaction; Standard practices are difficult.\n* E-commerce: No direct interaction; Standard practices are impossible.",
+          "hi": "* पारंपरिक: आमने-सामने बातचीत; मानक प्रथाएं कठिन हैं।\n* ई-कॉमर्स: कोई सीधा संपर्क नहीं; मानक प्रथाएं असंभव हैं।"
         },
         "d": {
-          "en": "* Online marketing and shopping are only for government employees [cite: 4, 24].\n* No ads can be displayed on social media [cite: 24, 25].\n* Digital shopping is prohibited in India according to the text[cite: 2, 24].",
-          "hi": "* ऑनलाइन मार्केटिंग और शॉपिंग केवल सरकारी कर्मचारियों के लिए हैं [cite: 4, 24]।\n* सोशल मीडिया पर कोई विज्ञापन प्रदर्शित नहीं किया जा सकता है [cite: 24, 25]।\n* पाठ के अनुसार भारत में डिजिटल शॉपिंग प्रतिबंधित है [cite: 2, 24]।"
+          "en": "* Traditional: Available 24x7; Direct interaction.\n* E-commerce: Limited time; No direct interaction.",
+          "hi": "* पारंपरिक: 24x7 उपलब्ध; सीधा संपर्क।\n* ई-कॉमर्स: सीमित समय; कोई सीधा संपर्क नहीं।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "b",
       "hint": {
-        "en": "Marketing is for showing (ads) and Shopping is for buying.",
-        "hi": "मार्केटिंग दिखाने (विज्ञापनों) के लिए है और शॉपिंग खरीदने के लिए है।"
+        "en": "Verify the scope (Small area vs Worldwide) and the delivery speed for both.",
+        "hi": "दोनों के लिए दायरे (छोटा क्षेत्र बनाम विश्वव्यापी) और डिलीवरी की गति को सत्यापित करें।"
       },
       "explanation": {
-        "en": "The descriptions defining marketing as advertising and shopping as purchasing with their correct examples are correct[cite: 24]. The chapter lists specific platforms like Amazon and Meesho as shopping sites [cite: 24].\n\n**Elimination Logic:**\n* The claim that Amazon is an exam form is false; it is a 'shopping website' [cite: 24].\n* The idea that Snapdeal is a social networking platform is incorrect; it is for 'online shopping' [cite: 24].\n* The statement that marketing is for 'buying goods' swaps its meaning with shopping[cite: 24].",
-        "hi": "मार्केटिंग को विज्ञापन और शॉपिंग को खरीद के रूप में उनके सही उदाहरणों के साथ परिभाषित करने वाले विवरण सही हैं [cite: 24]। अध्याय अमेज़न और मीशो जैसे विशिष्ट प्लेटफार्मों को शॉपिंग साइटों के रूप में सूचीबद्ध करता है [cite: 24]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि अमेज़न एक परीक्षा फॉर्म है, गलत है; यह एक 'शॉपिंग वेबसाइट' है [cite: 24]।\n* यह विचार कि स्नैपडील एक सोशल नेटवर्किंग प्लेटफॉर्म है, गलत है; यह 'ऑनलाइन शॉपिंग' के लिए है [cite: 24]।\n* यह कथन कि मार्केटिंग 'सामान खरीदने' (buying goods) के लिए है, शॉपिंग के साथ इसके अर्थ को बदल देता है [cite: 24]।"
+        "en": "The dataset identifying the small area scope and manual processing for traditional commerce, and the worldwide scope and automatic processing for e-commerce, is correct. These are the factual points from the textbook's comparison table.\n\n**Elimination Logic:**\n* Option (a) incorrectly swaps the scope and processing facts for the two models.\n* Option (c) is wrong because maintaining standard practices in e-commerce is 'easy', not 'impossible'.\n* Option (d) incorrectly swaps the availability; traditional is limited, e-commerce is 24x7.",
+        "hi": "पारंपरिक कॉमर्स के लिए छोटे क्षेत्र के दायरे और मैन्युअल प्रोसेसिंग, और ई-कॉमर्स के लिए विश्वव्यापी दायरे और स्वचालित प्रोसेसिंग की पहचान करने वाला डेटासेट सही है। ये पाठ्यपुस्तक की तुलना तालिका के तथ्यात्मक बिंदु हैं।\n\n**हटाने का तर्क (Elimination Logic):**\n* विकल्प (a) दोनों मॉडलों के लिए दायरे और प्रोसेसिंग के तथ्यों को गलत तरीके से बदल देता है।\n* विकल्प (c) गलत है क्योंकि ई-कॉमर्स में मानक प्रथाओं को बनाए रखना 'आसान' है, 'असंभव' नहीं।\n* विकल्प (d) उपलब्धता को गलत तरीके से बदल देता है; पारंपरिक सीमित है, ई-कॉमर्स 24x7 है।"
       },
       "key_takeaway": {
-        "en": "Internet marketing drives product awareness, while online shopping enables virtual retail[cite: 24].",
-        "hi": "इंटरनेट मार्केटिंग उत्पाद जागरूकता बढ़ाती है, जबकि ऑनलाइन शॉपिंग वर्चुअल रिटेल को सक्षम बनाती है [cite: 24]।"
+        "en": "Traditional commerce is localized and manual, while E-commerce is globalized and automated.",
+        "hi": "पारंपरिक कॉमर्स स्थानीयकृत और मैन्युअल है, जबकि ई-कॉमर्स वैश्विक और स्वचालित है।"
       }
     },
     {
       "question_id": 15,
       "question": {
-        "en": "Evaluate the information about Social Networking platforms.",
-        "hi": "सोशल नेटवर्किंग प्लेटफार्मों के बारे में जानकारी का मूल्यांकन करें।"
+        "en": "Which of the following describes the most accurate relationship between an online service feature and its corresponding user benefit?",
+        "hi": "निम्नलिखित में से कौन एक ऑनलाइन सेवा विशेषता और उसके संबंधित उपयोगकर्ता लाभ के बीच सबसे सटीक संबंध का वर्णन करता है?"
       },
       "options": {
         "a": {
-          "en": "* It helps make social relations with people sharing similar interests[cite: 24].\n* Facebook: Connect with friends; LinkedIn: Professional networking [cite: 25, 26].\n* Risks: Users can get addicted or profiles can be misused by hackers[cite: 25].",
-          "hi": "* यह समान रुचियों वाले लोगों के साथ सामाजिक संबंध बनाने में मदद करता है [cite: 24]।\n* फेसबुक: दोस्तों से जुड़ें; लिंक्डइन: प्रोफेशनल नेटवर्किंग [cite: 25, 26]।\n* जोखिम: उपयोगकर्ताओं को लत लग सकती है या हैकर्स द्वारा प्रोफाइल का दुरुपयोग किया जा सकता है [cite: 25]। "
+          "en": "Feature: Fast speed; Benefit: It allows the service to work even when the internet is disconnected.",
+          "hi": "विशेषता: तेज़ गति; लाभ: यह इंटरनेट डिस्कनेक्ट होने पर भी सेवा को काम करने की अनुमति देता है।"
         },
         "b": {
-          "en": "* LinkedIn is primarily for sharing short videos of celebrities only [cite: 26].\n* Social networking helps disconnect people from their relatives [cite: 25].\n* A social profile contains no information about hobbies or education[cite: 24].",
-          "hi": "* लिंक्डइन मुख्य रूप से केवल मशहूर हस्तियों के छोटे वीडियो साझा करने के लिए है [cite: 26]।\n* सोशल नेटवर्किंग लोगों को उनके रिश्तेदारों से अलग करने में मदद करती है [cite: 25]।\n* एक सोशल प्रोफाइल में शौक या शिक्षा के बारे में कोई जानकारी नहीं होती है [cite: 24]।"
+          "en": "Feature: 24x7 availability; Benefit: Users can plan travel or do banking at night and on public holidays.",
+          "hi": "विशेषता: 24x7 उपलब्धता; लाभ: उपयोगकर्ता रात में और सार्वजनिक छुट्टियों पर यात्रा की योजना बना सकते हैं या बैंकिंग कर सकते।"
         },
         "c": {
-          "en": "* WhatsApp is used strictly for online railway reservations only [cite: 9, 26].\n* Instagram is a professional networking site for job achievements [cite: 25, 26].\n* There is no risk of fake users on social media[cite: 25].",
-          "hi": "* व्हाट्सएप का उपयोग कड़ाई से केवल ऑनलाइन रेलवे रिजर्वेशन के लिए किया जाता है [cite: 9, 26]।\n* इंस्टाग्राम नौकरी की उपलब्धियों के लिए एक प्रोफेशनल नेटवर्किंग साइट है [cite: 25, 26]।\n* सोशल मीडिया पर फर्जी उपयोगकर्ताओं का कोई जोखिम नहीं है [cite: 25]।"
+          "en": "Feature: Data validation; Benefit: It ensures that the person filling the form is 100% honest about their age and name.",
+          "hi": "विशेषता: डेटा वैलिडेशन; लाभ: यह सुनिश्चित करता है कि फॉर्म भरने वाला व्यक्ति अपनी उम्र और नाम के बारे में 100% ईमानदार है।"
         },
         "d": {
-          "en": "* Social networking requires no internet to connect people globally [cite: 25].\n* All social profiles are physical papers stored in a government office [cite: 24].\n* YouTube is strictly for messaging and voice calls only[cite: 26].",
-          "hi": "* सोशल नेटवर्किंग को लोगों को वैश्विक स्तर पर जोड़ने के लिए किसी इंटरनेट की आवश्यकता नहीं होती है [cite: 25]।\n* सभी सोशल प्रोफाइल सरकारी कार्यालय में संग्रहीत भौतिक कागज हैं [cite: 24]।\n* यूट्यूब कड़ाई से केवल संदेश भेजने और वॉयस कॉल के लिए है [cite: 26]।"
+          "en": "Feature: Online frauds; Benefit: It helps users to save money by getting free items from unknown links.",
+          "hi": "विशेषता: ऑनलाइन धोखाधड़ी; लाभ: यह अज्ञात लिंक से मुफ्त आइटम प्राप्त करके उपयोगकर्ताओं को पैसे बचाने में मदद करता है।"
         }
       },
-      "correct_option": "a",
+      "correct_option": "b",
       "hint": {
-        "en": "Recall the purpose of LinkedIn and the warnings about hackers/addiction.",
-        "hi": "लिंक्डइन के उद्देश्य और हैकर्स/लत के बारे में चेतावनियों को याद करें।"
+        "en": "A true benefit must match the feature. Does 24x7 access help with holiday bookings?",
+        "hi": "एक सच्चा लाभ विशेषता से मेल खाना चाहिए। क्या 24x7 पहुंच छुट्टियों की बुकिंग में मदद करती है?"
       },
       "explanation": {
-        "en": "The set correctly matching the purpose, specific site functions (FB/LinkedIn), and listed risks is accurate[cite: 24, 25, 26]. The textbook distinguishes between social use (FB) and professional use (LinkedIn) while warning of security risks [cite: 25, 26].\n\n**Elimination Logic:**\n* The claim that LinkedIn is for celebrity videos is false; that description belongs to Instagram/YouTube [cite: 26].\n* The idea that WhatsApp is for rail reservations is incorrect; it is 'mainly used for messaging' [cite: 26].\n* The statement that profiles contain no info is wrong; they contain 'photos, bio data, education details, hobbies'[cite: 24].",
-        "hi": "उद्देश्य, विशिष्ट साइट कार्यों (FB/लिंक्डइन), और सूचीबद्ध जोखिमों का सही मिलान करने वाला समूह सटीक है [cite: 24, 25, 26]। पाठ्यपुस्तक सामाजिक उपयोग (FB) और व्यावसायिक उपयोग (लिंक्डइन) के बीच अंतर करती है और सुरक्षा जोखिमों की चेतावनी देती है [cite: 25, 26]।\n\n**हटाने का तर्क (Elimination Logic):**\n* यह दावा कि लिंक्डइन सेलिब्रिटी वीडियो के लिए है, गलत है; वह विवरण इंस्टाग्राम/यूट्यूब का है [cite: 26]।\n* यह विचार कि व्हाट्सएप रेल रिजर्वेशन के लिए है, गलत है; इसका 'मुख्य रूप से संदेश भेजने के लिए' (mainly used for messaging) उपयोग किया जाता है [cite: 26]।\n* यह कथन कि प्रोफाइल में कोई जानकारी नहीं होती, गलत है; उनमें 'तस्वीरें, बायो डेटा, शिक्षा विवरण, शौक' शामिल होते हैं [cite: 24]।"
+        "en": "The relationship between 24x7 availability and the benefit of banking or travel planning during night/holidays is correct. This logic follows the convenience factor described in the textbook.\n\n**Elimination Logic:**\n* Fast speed doesn't allow offline work; internet is mandatory for online services.\n* Data validation checks 'data type', not 'honesty' or factual truth.\n* Online frauds are a 'disadvantage/risk', not a 'benefit'.",
+        "hi": "24x7 उपलब्धता और रात/छुट्टियों के दौरान बैंकिंग या यात्रा योजना के लाभ के बीच का संबंध सही है। यह तर्क पाठ्यपुस्तक में वर्णित सुविधा कारक का अनुसरण करता है।\n\n**हटाने का तर्क (Elimination Logic):**\n* तेज़ गति ऑफ़लाइन काम की अनुमति नहीं देती है; ऑनलाइन सेवाओं के लिए इंटरनेट अनिवार्य है।\n* डेटा वैलिडेशन 'डेटा प्रकार' (data type) की जांच करता है, न कि 'ईमानदारी' या तथ्यात्मक सच्चाई की।\n* ऑनलाइन धोखाधड़ी एक 'नुकसान/जोखिम' है, 'लाभ' नहीं।"
       },
       "key_takeaway": {
-        "en": "Social networking serves diverse social and professional needs but requires mindful use to mitigate cybersecurity risks[cite: 25, 26].",
-        "hi": "सोशल नेटवर्किंग विविध सामाजिक और व्यावसायिक जरूरतों को पूरा करती है लेकिन साइबर सुरक्षा जोखिमों को कम करने के लिए इसके समझदारी भरे उपयोग की आवश्यकता होती है [cite: 25, 26]।"
+        "en": "The core strength of online business applications lies in their constant accessibility and efficiency.",
+        "hi": "ऑनलाइन बिजनेस अनुप्रयोगों की मुख्य ताकत उनकी निरंतर पहुंच और दक्षता में निहित है।"
       }
     }
   ]
