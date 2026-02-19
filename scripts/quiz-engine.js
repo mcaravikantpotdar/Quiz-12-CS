@@ -6,7 +6,7 @@ class QuizEngine {
         this.score = 0;
         this.startTime = null;
         this.timer = null;
-        this.currentTimer = 99;
+        this.currentTimer = 300;
         this.mode = 'practice'; 
         this.questionTimers = {};
         this.questionTimeSpent = {};
@@ -95,9 +95,12 @@ class QuizEngine {
         this.timer = setInterval(() => {
             const distance = endTime - Date.now();
             this.currentTimer = Math.ceil(distance / 1000);
-            if (this.currentTimer <= (this.mode === 'test' ? 10 : 30)) {
+            
+            // PULSE LOGIC: Warning at 60s for Practice (300) and 20s for Test (100)
+            if (this.currentTimer <= (this.mode === 'test' ? 20 : 60)) {
                 document.getElementById('timer')?.classList.add('pulse');
             }
+            
             if (this.currentTimer >= 0) onTick(this.currentTimer);
             if (this.currentTimer <= 0) {
                 this.recordTimeout(questionId, this.userAnswers[questionId]?.hintUsed);
@@ -109,7 +112,7 @@ class QuizEngine {
     stopTimer() {
         if (this.currentQuestionId && this.currentTimer >= 0) {
             this.questionTimers[this.currentQuestionId] = this.currentTimer;
-            this.questionTimeSpent[this.currentQuestionId] = (this.mode === 'test' ? 40 : 99) - this.currentTimer;
+            this.questionTimeSpent[this.currentQuestionId] = (this.mode === 'test' ? 100 : 300) - this.currentTimer;
         }
         if (this.timer) { clearInterval(this.timer); this.timer = null; }
         document.getElementById('timer')?.classList.remove('pulse');
@@ -124,7 +127,7 @@ class QuizEngine {
 
     initializeQuestionTimer(qId) {
         if (this.questionTimers[qId] === undefined) {
-            this.questionTimers[qId] = (this.mode === 'test') ? 40 : 99;
+            this.questionTimers[qId] = (this.mode === 'test') ? 100 : 300;
             this.questionTimeSpent[qId] = 0;
         }
         return this.questionTimers[qId];
@@ -195,14 +198,10 @@ class QuizEngine {
         this.clearProgress();
     }
 
-    /**
-     * STABILIZED: Full Memory Wipe
-     * Now nullifies quizData so the app returns to Home instead of Quiz screen.
-     */
     clearProgress() {
         localStorage.removeItem('quizProgress');
         if (this.overallTimer) { clearInterval(this.overallTimer); this.overallTimer = null; }
-        this.quizData = null; // KEY FIX: Forget the chapter
+        this.quizData = null; 
         this.currentQuestionIndex = 0; 
         this.userAnswers = {}; 
         this.score = 0; 
