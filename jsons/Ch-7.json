@@ -1,0 +1,206 @@
+{
+  "metadata": {
+    "chapter_number": 7,
+    "chapter_title": "Internet Business Applications",
+    "chapter_title_hindi": "इंटरनेट बिजनेस एप्लीकेशन्स",
+    "subject": "Computer Science (HPBOSE Class 12)",
+    "total_questions": 5,
+    "source_language": "en",
+    "target_language": "hi",
+    "created_at": "2026-02-19T10:00:00Z",
+    "version": "1.1",
+    "note": "Multi-statement options designed for deep reading and critical analysis."
+  },
+  "questions": [
+    {
+      "question_id": 1,
+      "question": {
+        "en": "Analyze the fundamental differences between Traditional Commerce and E-commerce. Which of the following sets of statements is entirely accurate regarding their operations?",
+        "hi": "पारंपरिक कॉमर्स (Traditional Commerce) और ई-कॉमर्स के बीच मौलिक अंतरों का विश्लेषण करें। उनके संचालन के संबंध में निम्नलिखित में से कौन सा कथनों का समूह पूरी तरह से सटीक है?"
+      },
+      "options": {
+        "a": {
+          "en": "* Traditional commerce relies on direct face-to-face interaction between buyer and seller.\n* E-commerce transactions are processed automatically via online platforms.\n* E-commerce has a limitless, worldwide scope compared to the limited physical area of traditional commerce.",
+          "hi": "* पारंपरिक कॉमर्स खरीदार और विक्रेता के बीच सीधे आमने-सामने की बातचीत पर निर्भर करता है।\n* ई-कॉमर्स लेनदेन ऑनलाइन प्लेटफॉर्म के माध्यम से स्वचालित रूप से संसाधित होते हैं।\n* पारंपरिक कॉमर्स के सीमित भौतिक क्षेत्र की तुलना में ई-कॉमर्स का दायरा असीमित और विश्वव्यापी है।"
+        },
+        "b": {
+          "en": "* In traditional commerce, the delivery of goods is often delayed.\n* E-commerce allows customers to physically inspect products before making a payment.\n* E-commerce is only available for a limited time during the day, just like physical shops.",
+          "hi": "* पारंपरिक कॉमर्स में सामान की डिलीवरी में अक्सर देरी होती है।\n* ई-कॉमर्स ग्राहकों को भुगतान करने से पहले उत्पादों का भौतिक निरीक्षण करने की अनुमति देता है।\n* ई-कॉमर्स दिन के दौरान केवल सीमित समय के लिए उपलब्ध है, ठीक भौतिक दुकानों की तरह।"
+        },
+        "c": {
+          "en": "* Traditional commerce processing is fully automatic and requires no manual work.\n* In E-commerce, there is a very high level of direct interaction between the seller and buyer.\n* Traditional commerce can easily maintain uniform standard practices globally.",
+          "hi": "* पारंपरिक कॉमर्स प्रोसेसिंग पूरी तरह से स्वचालित है और इसमें किसी मैनुअल काम की आवश्यकता नहीं है।\n* ई-कॉमर्स में, विक्रेता और खरीदार के बीच बहुत उच्च स्तर की सीधी बातचीत होती है।\n* पारंपरिक कॉमर्स विश्व स्तर पर समान मानक प्रथाओं को आसानी से बनाए रख सकता है।"
+        },
+        "d": {
+          "en": "* E-commerce allows for instant physical delivery of all goods immediately upon clicking 'buy'.\n* Traditional commerce is available 24x7 including all public holidays.\n* Customers in E-commerce rely on telephone and mail systems as the primary mode of transaction.",
+          "hi": "* ई-कॉमर्स 'खरीदें' पर क्लिक करने के तुरंत बाद सभी सामानों की तत्काल भौतिक डिलीवरी की अनुमति देता है।\n* पारंपरिक कॉमर्स सार्वजनिक छुट्टियों सहित 24x7 उपलब्ध है।\n* ई-कॉमर्स में ग्राहक लेनदेन के प्राथमिक तरीके के रूप में टेलीफोन और मेल सिस्टम पर निर्भर करते हैं।"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Think about the scope, the interaction style, and how the processing happens in each model.",
+        "hi": "प्रत्येक मॉडल में कार्यक्षेत्र (scope), बातचीत की शैली और प्रोसेसिंग कैसे होती है, इसके बारे में सोचें।"
+      },
+      "explanation": {
+        "en": "Option (a) is correct because it correctly identifies the face-to-face nature of traditional commerce [cite: 3], the automated nature of e-commerce [cite: 3], and its global reach [cite: 4].\n\n**Elimination Logic:**\n* **(b) is incorrect:** In traditional commerce, delivery is 'instant' [cite: 3], but e-commerce does *not* allow physical inspection before purchase [cite: 3].\n* **(c) is incorrect:** Traditional commerce is 'manual' [cite: 3], and e-commerce has *no* direct interaction [cite: 3].\n* **(d) is incorrect:** E-commerce delivery 'takes time' [cite: 3], and traditional commerce is available only for 'limited time'[cite: 3].",
+        "hi": "विकल्प (a) सही है क्योंकि यह पारंपरिक कॉमर्स की आमने-सामने की प्रकृति [cite: 3], ई-कॉमर्स की स्वचालित प्रकृति [cite: 3], और इसकी वैश्विक पहुंच [cite: 4] की सही पहचान करता है।\n\n**हटाने का तर्क (Elimination Logic):**\n* **(b) गलत है:** पारंपरिक कॉमर्स में डिलीवरी 'तत्काल' होती है [cite: 3], लेकिन ई-कॉमर्स खरीद से पहले भौतिक निरीक्षण की अनुमति *नहीं* देता है [cite: 3]।\n* **(c) गलत है:** पारंपरिक कॉमर्स 'मैनुअल' होता है [cite: 3], और ई-कॉमर्स में *कोई* सीधा संपर्क नहीं होता है [cite: 3]।\n* **(d) गलत है:** ई-कॉमर्स डिलीवरी में 'समय लगता है' [cite: 3], और पारंपरिक कॉमर्स केवल 'सीमित समय' के लिए उपलब्ध होता है [cite: 3]।"
+      },
+      "key_takeaway": {
+        "en": "E-commerce is automated and global; Traditional is manual and physical.",
+        "hi": "ई-कॉमर्स स्वचालित और वैश्विक है; पारंपरिक मैनुअल और भौतिक है।"
+      }
+    },
+    {
+      "question_id": 2,
+      "question": {
+        "en": "You are explaining the various models of E-commerce to a friend. Which of the following descriptions accurately matches the business model with its correct example and definition?",
+        "hi": "आप एक दोस्त को ई-कॉमर्स के विभिन्न मॉडलों के बारे में समझा रहे हैं। निम्नलिखित में से कौन सा विवरण व्यावसायिक मॉडल (business model) को उसके सही उदाहरण और परिभाषा के साथ सटीक रूप से मेल खाता है?"
+      },
+      "options": {
+        "a": {
+          "en": "* B2B occurs when a shopkeeper buys stock from a wholesaler (e.g., indiamart.com).\n* B2C occurs when a final consumer buys goods for personal use (e.g., amazon.com).\n* C2C occurs when one consumer sells products directly to another consumer (e.g., olx.com).",
+          "hi": "* B2B तब होता है जब एक दुकानदार थोक विक्रेता से स्टॉक खरीदता है (जैसे, indiamart.com)।\n* B2C तब होता है जब एक अंतिम उपभोक्ता व्यक्तिगत उपयोग के लिए सामान खरीदता है (जैसे, amazon.com)।\n* C2C तब होता है जब एक उपभोक्ता सीधे दूसरे उपभोक्ता को उत्पाद बेचता है (जैसे, olx.com)।"
+        },
+        "b": {
+          "en": "* C2B is when a shopkeeper buys goods from a whole-seller to sell further.\n* B2B is when a government buys services from a private company.\n* G2C is when a consumer sells his used car to another person on OLX.",
+          "hi": "* C2B वह है जब एक दुकानदार आगे बेचने के लिए थोक विक्रेता से सामान खरीदता है।\n* B2B वह है जब सरकार किसी निजी कंपनी से सेवाएं खरीदती है।\n* G2C वह है जब कोई उपभोक्ता OLX पर अपनी पुरानी कार किसी अन्य व्यक्ति को बेचता है।"
+        },
+        "c": {
+          "en": "* B2C stands for Business to Consumer and only involves selling customized goods like printed t-shirts.\n* B2B stands for Business to Buyer and examples include facebook.com and instagram.com.\n* C2C stands for Company to Company where two large businesses trade raw materials.",
+          "hi": "* B2C का अर्थ 'बिजनेस टू कंज्यूमर' है और इसमें केवल मुद्रित टी-शर्ट जैसे अनुकूलित सामान बेचना शामिल है।\n* B2B का अर्थ 'बिजनेस टू बायर' है और इसके उदाहरणों में facebook.com और instagram.com शामिल हैं।\n* C2C का अर्थ 'कंपनी टू कंपनी' है जहाँ दो बड़े व्यवसाय कच्चे माल का व्यापार करते हैं।"
+        },
+        "d": {
+          "en": "* G2B refers to a consumer buying goods directly from a shopkeeper.\n* B2G involves a business buying goods from the Government.\n* C2B is when a consumer buys generic items from a global wholesaler like Alibaba.",
+          "hi": "* G2B एक उपभोक्ता द्वारा सीधे दुकानदार से सामान खरीदने को संदर्भित करता है।\n* B2G में एक व्यवसाय सरकार से सामान खरीदना शामिल है।\n* C2B वह है जब एक उपभोक्ता अलीबाबा जैसे वैश्विक थोक विक्रेता से जेनेरिक सामान खरीदता है।"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Look for the party who is buying and the party who is selling in each scenario.",
+        "hi": "प्रत्येक परिदृश्य में देखें कि कौन खरीद रहा है और कौन बेच रहा है।"
+      },
+      "explanation": {
+        "en": "Option (a) is correct because it perfectly aligns B2B, B2C, and C2C with the definitions and examples provided in the text [cite: 4].\n\n**Elimination Logic:**\n* **(b) is incorrect:** C2B is for customized goods [cite: 4], and OLX is C2C [cite: 4], not G2C.\n* **(c) is incorrect:** B2B is Business to Business[cite: 4]. Facebook and Instagram are social networking sites[cite: 8], not primary B2B examples. C2C is Consumer to Consumer [cite: 4].\n* **(d) is incorrect:** G2B is Government to Business [cite: 4], while a consumer buying from a shop is B2C[cite: 4]. Alibaba/Aliexpress is cited as B2B[cite: 4].",
+        "hi": "विकल्प (a) सही है क्योंकि यह पाठ में दिए गए परिभाषाओं और उदाहरणों के साथ B2B, B2C और C2C को पूरी तरह से मेल खाता है [cite: 4]।\n\n**हटाने का तर्क (Elimination Logic):**\n* **(b) गलत है:** C2B अनुकूलित (customized) वस्तुओं के लिए है [cite: 4], और OLX C2C है [cite: 4], G2C नहीं।\n* **(c) गलत है:** B2B का अर्थ बिजनेस टू बिजनेस है [cite: 4]। फेसबुक और इंस्टाग्राम सोशल नेटवर्किंग साइट्स हैं[cite: 8], प्राथमिक B2B उदाहरण नहीं। C2C का अर्थ कंज्यूमर टू कंज्यूमर है [cite: 4]।\n* **(d) गलत है:** G2B का अर्थ गवर्नमेंट टू बिजनेस है [cite: 4], जबकि एक दुकान से खरीदने वाला उपभोक्ता B2C है [cite: 4]। अलीबाबा/अलीएक्सप्रेस को B2B के रूप में उद्धृत किया गया है [cite: 4]।"
+      },
+      "key_takeaway": {
+        "en": "B2B (Business-to-Business), B2C (Business-to-Consumer), and C2C (Consumer-to-Consumer) define the flow of trade.",
+        "hi": "B2B, B2C, और C2C व्यापार के प्रवाह को परिभाषित करते हैं।"
+      }
+    },
+    {
+      "question_id": 3,
+      "question": {
+        "en": "Net-banking has transformed how we handle finances. Based on the chapter, which option accurately combines the features, security protocols, and limitations of net-banking?",
+        "hi": "नेट-बैंकिंग ने हमारे वित्त को संभालने के तरीके को बदल दिया है। अध्याय के आधार पर, कौन सा विकल्प नेट-बैंकिंग की विशेषताओं, सुरक्षा प्रोटोकॉल और सीमाओं को सटीक रूप से जोड़ता है?"
+      },
+      "options": {
+        "a": {
+          "en": "* Allows 24x7 transactions including balance inquiries and bill payments.\n* Requires a unique User-ID and Password for access.\n* Uses OTP (One-Time-Password) as a mandatory security measure for fund transfers.\n* Can be interrupted if the internet connection is poor or the bank server is down.",
+          "hi": "* शेष राशि की पूछताछ और बिल भुगतान सहित 24x7 लेनदेन की अनुमति देता है।\n* एक्सेस के लिए एक विशिष्ट यूजर-आईडी और पासवर्ड की आवश्यकता होती है।\n* फंड ट्रांसफर के लिए अनिवार्य सुरक्षा उपाय के रूप में ओटीपी (वन-टाइम-पासवर्ड) का उपयोग करता है।\n* इंटरनेट कनेक्शन खराब होने या बैंक सर्वर डाउन होने पर इसमें बाधा आ सकती है।"
+        },
+        "b": {
+          "en": "* Net-banking is also called manual-banking.\n* It requires the user to physically visit the bank to approve every fund transfer.\n* It is primarily used for playing online games and social networking.\n* There is no security risk even if your smartphone is stolen.",
+          "hi": "* नेट-बैंकिंग को मैनुअल-बैंकिंग भी कहा जाता है।\n* इसके लिए उपयोगकर्ता को प्रत्येक फंड ट्रांसफर को मंजूरी देने के लिए भौतिक रूप से बैंक जाना पड़ता है।\n* इसका उपयोग मुख्य रूप से ऑनलाइन गेम खेलने और सोशल नेटवर्किंग के लिए किया जाता है।\n* आपका स्मार्टफोन चोरी होने पर भी इसमें कोई सुरक्षा जोखिम नहीं है।"
+        },
+        "c": {
+          "en": "* Online banking is only available during the specific working hours of the physical bank branch.\n* Customers can only view their balance but cannot transfer funds or pay bills.\n* It is very difficult and complex for everyone and cannot be learned by beginners.\n* Passwords are not required if you are using a personal computer.",
+          "hi": "* ऑनलाइन बैंकिंग केवल भौतिक बैंक शाखा के विशिष्ट कार्य घंटों के दौरान उपलब्ध होती है।\n* ग्राहक केवल अपना बैलेंस देख सकते हैं लेकिन फंड ट्रांसफर नहीं कर सकते या बिलों का भुगतान नहीं कर सकते।\n* यह सभी के लिए बहुत कठिन और जटिल है और शुरुआती लोगों द्वारा इसे सीखा नहीं जा सकता है।\n* यदि आप पर्सनल कंप्यूटर का उपयोग कर रहे हैं तो पासवर्ड की आवश्यकता नहीं होती है।"
+        },
+        "d": {
+          "en": "* Net-banking is slow because it relies on the postal mail system for confirmation.\n* Money transfers are never instant and take 3-5 working days via online portals.\n* Security is maintained by a physical signature sent via email.\n* It cannot be used on smartphones or mobile devices.",
+          "hi": "* नेट-बैंकिंग धीमी है क्योंकि यह पुष्टि के लिए डाक मेल सिस्टम पर निर्भर करती है।\n* पैसे का ट्रांसफर कभी भी तत्काल नहीं होता है और ऑनलाइन पोर्टल के माध्यम से 3-5 कार्य दिवस लगते हैं।\n* ईमेल के माध्यम से भेजे गए भौतिक हस्ताक्षर द्वारा सुरक्षा बनाए रखी जाती है।\n* इसे स्मार्टफोन या मोबाइल उपकरणों पर उपयोग नहीं किया जा सकता है।"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Focus on the technical requirements (internet, IDs) and the convenience factors mentioned in the text.",
+        "hi": "तकनीकी आवश्यकताओं (इंटरनेट, आईडी) और पाठ में उल्लिखित सुविधा कारकों पर ध्यान केंद्रित करें।"
+      },
+      "explanation": {
+        "en": "Option (a) is entirely correct. It lists the 24x7 availability [cite: 6], ID/Password requirement [cite: 6], OTP security [cite: 6], and server/internet dependency [cite: 6].\n\n**Elimination Logic:**\n* **(b) is incorrect:** Net-banking avoids physical visits [cite: 6], and smartphone theft *is* a misuse risk [cite: 6].\n* **(c) is incorrect:** It is available 24x7 [cite: 6], allows fund transfers [cite: 6], and always requires passwords [cite: 6].\n* **(d) is incorrect:** Money can be transferred 'instantly' [cite: 6], and it *can* be used on smartphones[cite: 6].",
+        "hi": "विकल्प (a) पूरी तरह से सही है। यह 24x7 उपलब्धता [cite: 6], आईडी/पासवर्ड की आवश्यकता [cite: 6], ओटीपी सुरक्षा [cite: 6], और सर्वर/इंटरनेट निर्भरता [cite: 6] को सूचीबद्ध करता है।\n\n**हटाने का तर्क (Elimination Logic):**\n* **(b) गलत है:** नेट-बैंकिंग भौतिक यात्राओं से बचाती है [cite: 6], और स्मार्टफोन की चोरी दुरुपयोग का एक जोखिम *है* [cite: 6]।\n* **(c) गलत है:** यह 24x7 उपलब्ध है [cite: 6], फंड ट्रांसफर की अनुमति देता है [cite: 6], और हमेशा पासवर्ड की आवश्यकता होती है [cite: 6]।\n* **(d) गलत है:** पैसा 'तुरंत' ट्रांसफर किया जा सकता है [cite: 6], और इसे स्मार्टफोन पर उपयोग *किया जा सकता है* [cite: 6]।"
+      },
+      "key_takeaway": {
+        "en": "Net-banking provides 24x7 internet-based financial control with OTP security.",
+        "hi": "नेट-बैंकिंग ओटीपी सुरक्षा के साथ 24x7 इंटरनेट आधारित वित्तीय नियंत्रण प्रदान करती है।"
+      }
+    },
+    {
+      "question_id": 4,
+      "question": {
+        "en": "Consider the process and advantages of 'Online Form Submissions' (e.g., Admission or Exam forms). Which of the following statements provides the most complete and accurate overview?",
+        "hi": "'ऑनलाइन फॉर्म सबमिशन' (जैसे, प्रवेश या परीक्षा फॉर्म) की प्रक्रिया और लाभों पर विचार करें। निम्नलिखित में से कौन सा कथन सबसे पूर्ण और सटीक अवलोकन प्रदान करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "* They are quick and easy to fill and can be accessed 24x7.\n* They save both time and money for the applicant.\n* They use data validation to ensure errors are minimized.\n* Submission is usually confirmed through automated Email or SMS.",
+          "hi": "* वे भरने में त्वरित और आसान हैं और उन्हें 24x7 एक्सेस किया जा सकता है।\n* वे आवेदक के लिए समय और पैसा दोनों बचाते हैं।\n* वे त्रुटियों को कम करने के लिए डेटा वैलिडेशन का उपयोग करते हैं।\n* सबमिशन की पुष्टि आमतौर पर स्वचालित ईमेल या एसएमएस के माध्यम से की जाती है।"
+        },
+        "b": {
+          "en": "* Online forms are specifically designed to check if the user's factual information is 100% true.\n* They never have any limit on the size of files that can be uploaded.\n* They are used for social networking only and not for serious data like passports.\n* They are confirmed only by a physical letter sent to your home address.",
+          "hi": "* ऑनलाइन फॉर्म विशेष रूप से यह जांचने के लिए डिज़ाइन किए गए हैं कि उपयोगकर्ता की तथ्यात्मक जानकारी 100% सच है या नहीं।\n* उनमें अपलोड की जा सकने वाली फ़ाइलों के आकार पर कभी कोई सीमा नहीं होती है।\n* उनका उपयोग केवल सोशल नेटवर्किंग के लिए किया जाता है, पासपोर्ट जैसे गंभीर डेटा के लिए नहीं।\n* उनकी पुष्टि केवल आपके घर के पते पर भेजे गए भौतिक पत्र द्वारा की जाती है।"
+        },
+        "c": {
+          "en": "* Filling an online form is exactly the same as using a typewriter.\n* Data validation in online forms means they can read the user's mind to correct typos.\n* There is no chance of information theft through fake online forms.\n* Online forms are slower than manual forms because they require many levels of postal verification.",
+          "hi": "* ऑनलाइन फॉर्म भरना बिल्कुल वैसा ही है जैसे टाइपराइटर का उपयोग करना।\n* ऑनलाइन फॉर्म में डेटा वैलिडेशन का मतलब है कि वे टाइपो को सही करने के लिए उपयोगकर्ता के दिमाग को पढ़ सकते हैं।\n* नकली ऑनलाइन फॉर्म के माध्यम से सूचना चोरी की कोई संभावना नहीं है।\n* ऑनलाइन फॉर्म मैनुअल फॉर्म की तुलना में धीमे होते हैं क्योंकि उनमें डाक सत्यापन के कई स्तरों की आवश्यकता होती है।"
+        },
+        "d": {
+          "en": "* Online forms are only available during banking holidays.\n* Applicants must visit a government office to get the URL of the online form.\n* They increase the chances of manual errors compared to paper forms.\n* They are very expensive to use for the common public.",
+          "hi": "* ऑनलाइन फॉर्म केवल बैंकिंग छुट्टियों के दौरान ही उपलब्ध होते हैं।\n* आवेदकों को ऑनलाइन फॉर्म का URL प्राप्त करने के लिए सरकारी कार्यालय जाना होगा।\n* वे कागजी फॉर्म की तुलना में मैनुअल त्रुटियों की संभावना बढ़ाते हैं।\n* आम जनता के लिए इनका उपयोग करना बहुत महंगा है।"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Consider why schools and government offices prefer online forms over paper ones.",
+        "hi": "विचार करें कि स्कूल और सरकारी कार्यालय कागजी फॉर्मों की तुलना में ऑनलाइन फॉर्मों को क्यों प्राथमिकता देते हैं।"
+      },
+      "explanation": {
+        "en": "Option (a) is correct. It covers ease of use [cite: 9], 24x7 access [cite: 9], time/money saving [cite: 9], data validation [cite: 9], and confirmation methods [cite: 9].\n\n**Elimination Logic:**\n* **(b) is incorrect:** They validate *type* of data, not *correctness*[cite: 9]. There *is* a file size limit [cite: 9].\n* **(c) is incorrect:** Fake forms *can* steal information [cite: 9].\n* **(d) is incorrect:** They *reduce* errors [cite: 9] and *save* money[cite: 9].",
+        "hi": "विकल्प (a) सही है। इसमें उपयोग में आसानी [cite: 9], 24x7 पहुंच [cite: 9], समय/पैसे की बचत [cite: 9], डेटा वैलिडेशन [cite: 9], और पुष्टिकरण के तरीके [cite: 9] शामिल हैं।\n\n**हटाने का तर्क (Elimination Logic):**\n* **(b) गलत है:** वे डेटा के *प्रकार* को मान्य करते हैं, *शुद्धता* को नहीं [cite: 9]। फ़ाइल आकार की एक सीमा *होती* है [cite: 9]।\n* **(c) गलत है:** नकली फॉर्म जानकारी चुरा *सकते* हैं [cite: 9]।\n* **(d) गलत है:** वे त्रुटियों को *कम* करते हैं [cite: 9] और पैसे *बचाते* हैं [cite: 9]।"
+      },
+      "key_takeaway": {
+        "en": "Online forms provide validated, efficient, and cost-effective data submission.",
+        "hi": "ऑनलाइन फॉर्म मान्य, कुशल और लागत प्रभावी डेटा सबमिशन प्रदान करते हैं।"
+      }
+    },
+    {
+      "question_id": 5,
+      "question": {
+        "en": "Social networking has become a part of daily life. Based on your reading of the text, which of the following best describes its purpose and the risks associated with it?",
+        "hi": "सोशल नेटवर्किंग दैनिक जीवन का हिस्सा बन गई है। पाठ के आपके अध्ययन के आधार पर, निम्नलिखित में से कौन इसके उद्देश्य और इससे जुड़े जोखिमों का सबसे अच्छा वर्णन करता है?"
+      },
+      "options": {
+        "a": {
+          "en": "* It helps in making social relations with people sharing similar interests or backgrounds.\n* It provides a global platform to share ideas and reach thousands of people instantly.\n* Risks include addiction, potential for getting cheated by fake users, and profile misuse by hackers.",
+          "hi": "* यह समान रुचियों या पृष्ठभूमि साझा करने वाले लोगों के साथ सामाजिक संबंध बनाने में मदद करता है।\n* यह विचारों को साझा करने और हजारों लोगों तक तुरंत पहुंचने के लिए एक वैश्विक मंच प्रदान करता है।\n* जोखिमों में लत (addiction), फर्जी उपयोगकर्ताओं द्वारा ठगे जाने की संभावना और हैकर्स द्वारा प्रोफाइल का दुरुपयोग शामिल है।"
+        },
+        "b": {
+          "en": "* Its only purpose is to find career connections on LinkedIn.\n* There is zero risk of information theft because social profiles are encrypted by the government.\n* Social networking prevents users from following celebrities or sharing photos.\n* It is used primarily by people who want to avoid making friends.",
+          "hi": "* इसका एकमात्र उद्देश्य लिंक्डइन पर करियर कनेक्शन ढूंढना है।\n* सूचना चोरी का शून्य जोखिम है क्योंकि सामाजिक प्रोफाइल सरकार द्वारा एन्क्रिप्ट किए जाते हैं।\n* सोशल नेटवर्किंग उपयोगकर्ताओं को मशहूर हस्तियों को फॉलो करने या फोटो साझा करने से रोकती है।\n* इसका उपयोग मुख्य रूप से उन लोगों द्वारा किया जाता है जो दोस्त बनाने से बचना चाहते हैं।"
+        },
+        "c": {
+          "en": "* Social profiles only contain education details and cannot store photos or hobbies.\n* It is impossible to chat privately with other users on social media platforms.\n* Social networking helps to disconnect from friends and relatives who live in different countries.\n* There are no examples of social networking platforms provided in the textbook.",
+          "hi": "* सोशल प्रोफाइल में केवल शिक्षा विवरण होता है और यह फोटो या शौक को स्टोर नहीं कर सकता है।\n* सोशल मीडिया प्लेटफॉर्म पर अन्य उपयोगकर्ताओं के साथ निजी तौर पर चैट करना असंभव है।\n* सोशल नेटवर्किंग अलग-अलग देशों में रहने वाले दोस्तों और रिश्तेदारों से संपर्क तोड़ने में मदद करती है।\n* पाठ्यपुस्तक में सोशल नेटवर्किंग प्लेटफॉर्म का कोई उदाहरण नहीं दिया गया है।"
+        },
+        "d": {
+          "en": "* Instagram is used exclusively for professional job searching and recruitment.\n* WhatsApp is used only for watching long educational documentaries.\n* Facebook is a platform where you cannot share posts or join groups.\n* Social networking is a manual service that requires physical mail to connect with friends.",
+          "hi": "* इंस्टाग्राम का उपयोग विशेष रूप से पेशेवर नौकरी खोजने और भर्ती के लिए किया जाता है।\n* व्हाट्सएप का उपयोग केवल लंबी शैक्षिक वृत्तचित्र देखने के लिए किया जाता है।\n* फेसबुक एक ऐसा प्लेटफॉर्म है जहां आप पोस्ट साझा नहीं कर सकते या समूहों में शामिल नहीं हो सकते।\n* सोशल नेटवर्किंग एक मैनुअल सेवा है जिसमें दोस्तों के साथ जुड़ने के लिए भौतिक मेल की आवश्यकता होती है।"
+        }
+      },
+      "correct_option": "a",
+      "hint": {
+        "en": "Think about both the community-building aspect and the security concerns like hacking mentioned in the text.",
+        "hi": "सामुदायिक निर्माण के पहलू और पाठ में उल्लिखित हैकिंग जैसी सुरक्षा चिंताओं दोनों के बारे में सोचें।"
+      },
+      "explanation": {
+        "en": "Option (a) is correct as it accurately captures the benefits (connections [cite: 7], global reach [cite: 8]) and the drawbacks (addiction [cite: 8], fraud [cite: 8], hacking [cite: 8]) mentioned in the text.\n\n**Elimination Logic:**\n* **(b) is incorrect:** Hacking *is* a misuse risk [cite: 8], and users *can* follow celebrities [cite: 9].\n* **(c) is incorrect:** Profiles *do* contain photos/hobbies [cite: 7], and private chat *is* possible[cite: 8]. It connects (not disconnects) people [cite: 8].\n* **(d) is incorrect:** LinkedIn is for job searching [cite: 9], and Facebook allows sharing and groups[cite: 8].",
+        "hi": "विकल्प (a) सही है क्योंकि यह पाठ में उल्लिखित लाभों (कनेक्शन [cite: 7], वैश्विक पहुंच [cite: 8]) और कमियों (लत [cite: 8], धोखाधड़ी [cite: 8], हैकिंग [cite: 8]) को सटीक रूप से दर्शाता है।\n\n**हटाने का तर्क (Elimination Logic):**\n* **(b) गलत है:** हैकिंग दुरुपयोग का एक जोखिम *है* [cite: 8], और उपयोगकर्ता मशहूर हस्तियों को फॉलो *कर सकते हैं* [cite: 9]।\n* **(c) गलत है:** प्रोफाइल में फोटो/शौक *होते हैं* [cite: 7], और निजी चैट *संभव है* [cite: 8]। यह लोगों को जोड़ता है (तोड़ता नहीं) [cite: 8]।\n* **(d) गलत है:** लिंक्डइन नौकरी खोजने के लिए है [cite: 9], और फेसबुक साझा करने और समूहों की अनुमति देता है [cite: 8]।"
+      },
+      "key_takeaway": {
+        "en": "Social networking connects users globally but requires caution against addiction and security threats.",
+        "hi": "सोशल नेटवर्किंग उपयोगकर्ताओं को विश्व स्तर पर जोड़ती है लेकिन इसके लिए लत और सुरक्षा खतरों के प्रति सावधानी की आवश्यकता होती है।"
+      }
+    }
+  ]
+}
